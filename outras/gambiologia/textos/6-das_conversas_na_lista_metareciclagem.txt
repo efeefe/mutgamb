@@ -1,0 +1,497 @@
+DAS CONVERSAS NA LISTA METARECICLAGEM
+|1. Dúvida sobre Tecnologia
+em http://thread.gmane.org/gmane.politics.organizations.metareciclagem/18166
+mbraz:
+Nas leituras e pesquisas que ando fazendo sobre tecnologia, trabalho e teoria do valor, surgiu uma pergunta que quero compartilhar com vocês - esperando contribuições na forma de opiniões, dicas, chutes, etc.:
+Como se mede quanto há de energia em um processo, objeto ou produto tecnológico?
+Ou ainda, como seria uma métrica objetiva e real para tais produtos?
+stalker:
+Seguindo a linha de pensamento dos science studies, a medida é a da substituição (em tempo de trabalho médio necessário) que a ferramenta/máquina/utensílio/aparelho promove em relação a outras mediações sociais. Do tipo:
+Quanto uma porta com chave economiza os gastos com um leão de chácara (se a tranca for com senha, quanto economiza em cópias de chaves e serviços de chaveiro)? Quanto um quebra-molas economiza os gastos com um guarda de trânsito e com a burocracia da multa, da fiscalização e da corporação à qual o guarda pertence?
+A métrica tem que ser objetiva, pois, para medir estamos abordando o fenômeno no plano epistemológico, lidando com fatos (isto é, o real passível de descrição em algum sistema simbólico). Objetividade implica representação, arbitrariedade, convenção, abstração: tudo envolve assumir uma perspectiva. No caso, sugiro uma avaliação de tipo materialista dialética, de economia política: tempo de trabalho humano médio substituído pela tecnologia x - tempo de trabalho humano médio gasto para pôr em operação plena a tecnologia x.
+É claro que há muitos efeitos paralelos envolvidos sempre que ocorre tal substituição (tipo: a porta também fornece uma separação térmica entre os ambientes, coisa que o brutamontes não faria). Mas isso já escapa à objetividade, exige que seja estabelecida outra perspectiva (pode-se, por exemplo, colocar a dissipação de energia como critério: outra objetividade).
+Métrica real é um oximoro, uma contradição de termos.
+A perspectiva do real é a das possibilidades qualitativas positivas (não tem oposto... é o reino das singularidades), nenhum ente singular se soma ou se subtrai de outro. O Mbraz + o Stalker são Mbraz e Stalker (singularidades, reais) ou então são dois metarecs (representações mediadas pela perspectiva objetivadora da categoria "participantes da lista MetaReciclagem").
+O real é domínio da ontologia - ou seja, da metafísica. Ao falar de "real", estamos lidando com /eventos/. Também conhecidos como "acontecimentos" (pelo desvio francófono dessa discussão), os eventos são fragmentos de certa duração que envolvem todo o cosmos, durações só delimitadas porque há o ponto de vista de um ser vivo interessado no evento em questão (o MBraz, no caso).
+"O rugir do leão, o uivar do lobo, o mar tempestuoso e a espada destruidora são fragmentos de realidade vastos demais para os olhos humanos." (William Blake)
+lelex:
+Sempre houve um componente técnico na vida humana. O ser humano é afetado pela tecnologia quando trabalha, consome, se compreende, se faz, se compraz, quando se considera a si mesmo. Mas o ser humano nem sempre se considerou e compreendeu como ser humano pela técnica, nem sempre considerou a técnica como essencial, isto é, como um elemento da sua definição e do seu destino.
+Lutzenberger dizia que "a tecnologia está cheia de trapaças, no mesmo nível moral da vigarice". Uma delas é a política de obsolescência planejada, que é o que determina, por exemplo, a durabilidade de uma lâmpada ou induz os consumidores a trocarem de celular toda hora. Seguindo a rima do velho mestre, a ciência não é apenas um acervo de conhecimentos, mas uma atitude, um processo que se baseia em decisões éticas. E com ele também lamento que "do ponto de vista da tecnocracia, a real e sagrada função da ciência é a produção de novas tecnologias que sejam vendáveis, de preferência patenteáveis, e que levem sempre a mais faturamento".
+É preciso que se entenda que o advento da tecnologia conscientemente planificada não é a simples aplicação prática de conhecimentos teóricos, como se de repente o homem tivesse descoberto a forma de transformar em máquinas os conhecimentos armazenados. A tecnologia é, em si, uma compreensão nova das condições em que é possível o conhecimento científico (...) é... na luta entre desiguais vence a força bruta.
+stalker:
+Acrescentando ao que eu disse, Lelex: a escolha de qual perspectiva você vai usar para peneirar os acontecimentos como objetos (quantificáveis, numeráveis, mensuráveis) é POLÍTICA. Inovação é um critério ambíguo: obsolescência programada é um motor da inovação tecno-fetichista.
+efeefe:
+Pergunta complexa... O que é tecnologia?
+Dá pra pensar em tecnologia como qualquer desvio intencional da natureza. Mas aí, o que é natureza? Aquilo anterior ao humano? Aquilo em que o humano é ausente? Mas e o humano é o quê? Urinar no meio do mato é tecnologia? Colher maçã do pé é tecnologia?
+Talvez o humano que se destaca da natureza seja o ato consciente, ou auto-consciente. Mas aí eu não sei diferenciar tecnologia de cultura. E talvez eu não reconheça o humano sem cultura, sem tecnologia.
+Colher uma maçã não parece, em princípio, ser tecnologia; usar um instrumento pra colher a maçã, sim. Mas dá pra ir mais fundo...
+Colher a maçã sem instrumento nenhum, sabendo que as vermelhas são mais saborosas que as verdes. Tem tecnologia nisso? Consciência? Ou puro instinto?
+De qualquer forma, não sei se é possível mensurar tecnologia. Nem sei se é possível saber o que é tecnologia.
+mbraz:
+Mas a pergunta era como se quantifica tecnologia, não exatamente o que é tecnologia. Aí o carinha vai me perguntar como medir, se eu não sei o que é?
+Bom, eu não conseguiria definir o que exatamente é tristeza, mas sei quanto é estar mais ou menos alegre. Os fatos empíricos são os seguintes: existe uma cultura material, pois produzimos e usamos artefatos - nem sempre nessa ordem. Quando pegamos um galhinho para colher a maçã no alto da árvore, a coisa estava ali, produzida organicamente. Diferente de eu abstrair esse ato e produzir um instrumento para tal.
+Mesmo lembrando que animais também usam objetos para determinados fins, a definição se mantém, pois ainda somos animaizinhos bípedes imitadores. Obviamente haverá tantas definições de tecnologia quanto humanos existirem. E não dá pra dizer que tecnologia não existe e é real, senão você não estaria lendo o que escrevi. É a tecnologia de escrever através de símbolos compartilhados e compreendidos mutuamente.
+Mas, voltando à questão geradora reelaborada: havendo variadas definições de tecnologias, reafirma-se o argumento de que é possível pensá-la quantificando-a. Medir também é uma característica do pensar humano. Ou não?
+lelex:
+Realmente. Para a tecnologia, basta que se equacione um problema para que uma solução seja formulada. No seu sentido mais lato é know how - a transposição da situação-problema para a solução. A tecnologia continua a afirmar, assim, que ela tem os instrumentos de análise e sabe como solucionar os problemas humanos...
+"Uma torta de maçã não é, em si mesma, nem boa nem má. É a maneira como é usada que determina seus valores". Ou, "Se as armas de fogo não são, em si mesmas, nem boas nem más, é a maneira como são usadas que determina seus valores". Isso é, se as balas atingem as pessoas certas, as armas de fogo são boas; se a torta de maçã não deu dor de barriga, a torta de maçã é boa - segundo o Mc Luhan...
+A tecnologia não é neutra. Não é meio. É um fim. É sistema. Como tal, toma o critério da eficiência funcional como sua norma básica. A lógica da funcionalidade - ou melhor, a ideologia da funcionalidade - cria um novo ser humano: o ser humano função do sistema. A ideologia da funcionalidade determina a seguinte relação entre o sistema e o humano: a eficiência funcional do sistema é inversamente proporcional à participação crítica do homem. Como consequência, o sistema tecnológico tende a ser um sistema de dominação em que a história chega ao fim.
+A civilização técnica (tecnológica) começa a concernir ao homem quando chega a determinar seu gênero de vida, se compreende e se organiza em vista de uma luta progressiva com a natureza exterior. Essa luta deveria ser mais que um meio de sobreviver, transformando-se numa maneira de viver.
+ Agora, como se quantifica a tecnologia, a técnica, acho tão difícil quanto o relatório sobre indústria do software, que tive que finalizar nesse final de semana. Como também não sei preencher planilhas, dados e estatísticas, se não tiver a mínima compreensão do todo. A tecnologia faz parte da vida humana, da história da humanidade.
+Sem dúvida alguma, a possibilidade de progresso social e econômico das sociedades modernas, ávidas por bens de consumo e serviço em abundância, está intimamente ligada à ênfase que determinada sociedade dá aos aspectos culturais relacionados com o desenvolvimento cientifico e técnico. Quando o conhecimento do meio que se baseia no conhecimento vulgar, por exemplo, é considerado tecnologia tradicional, existe uma diferença notável entre ciência e técnica. As técnicas estão impregnadas de um objetivo útil: obtenção de uma qualidade em um produto.
+Compreender as questões complexas de uma sociedade tecnológica  torna-se cada vez mais difícil para o ser humano. Mas aqui a tecnologia atravessa todas as direções. As questões são mais complexas, temos um conhecimento aprofundado sobre como as pessoas aprendem, percebem e decidem. Muitas das nossas crianças já têm maior conhecimento de certos aspectos de nosso mundo técnico do que nós.
+efeefe:
+Pode ser. Mas eu não consigo pensar em como quantificar, ou pra quê. Nem a sugestão do stalker, de medir tempo de substituição. Tem muitas tecnologias que me parecem criar situações novas, em vez de só substituir situações pré-existentes.
+varga:
+Putz, não faço a menor ideia. Tecnologia às vezes chega ser algo totalmente esotérico. Talvez seja o quanto são inovadores esses produtos.
+mbraz:
+Ajudou, claro. Toda resposta é ajuda.
+Esoterismo na tecnologia: não vejo assim, o que há de esotérico em máquinas produzidas em série nas fábricas - no caso de computadores? É algo bem objetivo, construído para determinado fim.
+Inovação: Seria uma boa métrica? O que é inovador para alguns não faz o menor sentido para outros. Por exemplo, gravação de cd pode ser inovador para quem nunca viu, mas para nós, aqui na lista, já é carne de vaca.
+Ainda continuo procurando.
+lelex:
+A ciência é a tentativa de explicação do mundo pelo homem, isso é, a ciência corresponde ao grau de conhecimento do mundo, da realidade, pela humanidade.
+No princípio, tentavam explicar o mundo, o que acontecia, os "fenômenos" (trovão, relâmpagos, enchentes), mas, por falta de conhecimento real do mundo, não existia a ciência, não conseguiam dar explicações reais, não chegavam ao "conhecimento da realidade": suas explicações eram mágicas, sobrenaturais.
+Porém, aos poucos - através da observação, da experiência, ligando isso ao desenvolvimento das técnicas - as explicações foram melhorando, o erro e a magia foram diminuindo. A acumulação das experiências permitiu que se chegasse a explicações mais próximas da realidade; nesse sentido a ciência nasceu e se desenvolveu; enquanto os mitos iam morrendo, as explicações sobrenaturais desapareciam.
+A essa altura é preciso deixar claro que se existem diversas ciências aplicadas ao estudo de fenômenos diversos e ramos de aplicação também diversos (o que resulta na física, matemática, eletrônica, etc), a diversidade não impede que todas pertençam à ciência, ao conhecimento. A explicação não-científica dá lugar à explicação científica. Disso decorre que há apenas uma concepção cientifica do mundo, enquanto as concepções não-científicas são numerosas. Ou, em outros termos, como escreveu Simone de Beauvoir, "a verdade é uma, enquanto o erro é múltiplo".
+glerm:
+"ciência" = "tecnologia"?
+Corte epistemológico. 
+lelex:
+Já nos séculos VI e V a.C., os físicos Tales, Anaxímenes e Heráclito tiraram da física os primeiros ensinamentos e colocaram as bases da dialética, dando-se conta de que em todo lugar só se encontra o movimento, a mudança, e que as coisas não estão isoladas, mas intimamente ligadas umas às outras.
+Heráclito escreve: "Nada é imóvel, tudo flui, e vê, na contradição, as razões da evolução das coisas".
+É no século V a.C. que Demócrito desenvolve a teoria dos átomos; a partir daí, a concepção 'objetiva' de conhecimento da realidade ficou parada durante um tempo, devido à insuficiência do desenvolvimento das técnicas.
+mbraz:
+Ainda sobre o 'shape' das coisas, ou das máquinas, lembrei-me que Milton Santos escreveu sobre suas lembranças de quando as coisas (os objetos técnicos) obedeciam-no. Hoje precisamos nos adaptar às máquinas, ou melhor, ao design da máquina, que nos é estranho. Como o conceito design está fortemente ligado ao produzir em cultura, ilustro com um texto de Flusser:
+Design: Obstáculo para Remoção de Obstáculos
+Flusser in The Shape of Things - A Philosophy of Design
+Um objeto de uso é um objeto para tirar os outros objetos do caminho. Um obstáculo para remover um obstáculo. Essa contradição é chamada "dialeto interno da cultura". Eu encontro alguns obstáculos no caminho (pelo mundo objetivo, substancial e problemático), eu supero alguns dos obstáculos (transformo-os em objetos de uso, cultura) para poder continuar, e os objetos provam serem obstáculos por si só. O mais eu continuo, o mais eu sou obstruído por objetos de uso (na forma de carros, máquinas). Estou de fato duplamente obstruído. Primeiro porque uso para continuar, segundo porque eles aparecem no caminho. Ou seja, o mais eu continuo, mais objetivo, substancial e problemático se torna a cultura. Esse é o ponto central.
+No caso de objetivos que eu viso, lido com objetos desenhados por outros. Esses objetos são então mediações (mídia) entre mim e a outra pessoa, não apenas objetos. Não são apenas objetivos, mas intersubjetivos também, não apenas problemático, mas dialógico também. A questão de criar coisas pode ser formulada assim: posso dar forma aos meus designes de uma forma que a comunicabilidade, intersubjetividade, são mais fortemente enfatizadas que o objetivo, o substancial e o problemático.
+Quem projeta designes para objetos de uso joga obstáculos no caminho das pessoas. Quanto à criação de objetos, deve lidar com a questão da responsabilidade, é isso que torna possível falar sobre liberdade em relação à cultura. A atual situação da cultura é caracterizada por objetos de uso cujos designes foram criados irresponsavelmente, com atenção voltada ao objeto.
+Entretanto, estamos livrando o termo objeto do termo matéria, ao projetar objetos de uso material como programas de computador. Isso é, para não dizer que uma cultura imaterial crescendo dessa forma seria menos obstrutiva. Provavelmente restringe-se à liberdade, mais que a cultura material... Isso não é o suficiente para esperarmos uma cultura mais responsável no futuro. Mas há razões para otimismo. Objetos de uso são antes de tudo obstruções necessárias para o progresso, e quanto mais eu preciso deles, mais eu os uso.
+E, complementando e concordando:
+"Esse amálgama entre as noções de "técnica" e de "tecnologia" é muito bem formulado por François Sigaut, ao discutir a diferença entre "técnica" e "tecnologia", no prefácio de um livro de ensaios do etnólogo André-Georges Haudricourt:
+"Se os dois termos podem ser tomados um pelo outro, é porque qualquer um dos dois não tem um sentido bem preciso para nossos contemporâneos. Porque, contrariamente a uma opinião bastante corrente, nossa vida quotidiana é cada vez menos marcada, menos formada e menos estruturada pela técnica. A técnica supõe o contato direto do homem com a natureza, com a matéria. Ora, as máquinas nos dispensam ou nos privam mais e mais deste contato, sem que o ensino geral (do qual as técnicas são excluídas) aporte qualquer compensação. O que cria esta ilusão é que o capital de saber técnico acumulado em nossa sociedade é, hoje em dia, infinitamente maior do que jamais foi. Mas a parte de cada um de nós nesse capital jamais foi tão desprezível". [apud SERIS, Jean-Pierre (1994), La Technique. Paris, PUF, pág. 4]"
+rbailux:
+Nas minhas pinturas [1], os pincéis, tintas, tecidos, máquinas de costura. Nos objetos, a linha. E por aí vai...
+Muita tecnologia. Seria por aí?
+[1]http://www.flickr.com/photos/rhprojetos
+mbraz:
+A tecnologia nesse caso seria o ato de costurar e/ou de pintar, né?
+Mas, digamos, num processo industrial que faça a mesma coisa, costurar e pintar tecidos: tem mais ou menos tecnologia?
+rbailux:
+Fico tentado a dizer que no processo industrial há mais tecnologia. Mas, refletindo sobre esses anos de metarecicleiro, retomo a ideia de quem projetou as máquinas e construiu outras máquinas de produzir máquinas. E ainda continuamos no demasiado humano da tecnologia [2].
+[2]http://www.ppgte.cefetpr.br/genero/tecnologia.htm
+2. re, re, re, re, re
+em http://thread.gmane.org/gmane.politics.organizations.metareciclagem/3680
+efeefe (encaminhando para a lista):
+Estava conversando com o Thiago Novaes sobre algumas coisas relacionadas ao conceito de MetaReciclagem. Ele levantou algumas questões que, acredito, nos interessam. Aqui vão:
+thiago novaes (para efeefe):
+Olha, a pergunta é:
+A existência de uma máquina está encerrada em sua utilidade prevista?
+ou
+Como as máquinas podem ser configuradas a partir de outra relação entre técnica e cultura, onde se explora a potencialidade de desenvolvimento permanente, como impõem o progresso técnico cada vez mais acelerado, mas, a partir de uma lógica que mantém aberta a caixa preta para atualização, valendo-se de meios inteligentes e participativos, sem com isso responder a uma falsa questão proposta?
+ou
+Como apropriar certos sentidos atribuídos à caracterização de políticas públicas na sociedade do trabalho, sem resgatar velhas soluções e discursos cujo pleno emprego perde cada vez mais sentido?
+|3. re, re, re, fundamentos
+http://thread.gmane.org/gmane.politics.organizations.metareciclagem/3681
+efeefe (encaminhando para a lista):
+E um Simondon...
+Como a MetaReciclagem se relaciona ao trabalho manual? Será que a gente inverte essa lógica?
+thiago novaes (para efeefe):
+"Mas nos endereçamos aos alunos das escolas. Fundadas no século XIX para instruir os alunos da burguesia, as escolas distribuíram uma cultura cuja dominante é um simbolismo, sobretudo verbal, deixando em seguida um lugar mais largo para o pensamento matemático. Essa cultura secundária não estava senão com uma aparência imprensada: de fato, o fazer, como condição da cultura entendida e no sentido do século XIX, é uma proibição que define um limite separando uma classe social de outra: a proibição do contato direto entre a mão e a matéria significa, de fato, não lazer, mas um recurso ao intermediário a serviço, servo ou operário.
+O caráter desonroso do trabalho manual é a expressão de um significismo social: manipular a matéria é aventar-se membro de uma classe social dominada. O único gesto autorizado ao membro de uma classe social dominante é dar ordem. Ele não deve ser efetuador, é executor. As línguas antigas, tais quais estavam sendo refinadas no século XIX, não eram desinteressadas: elas davam ao indivíduo de uma classe social dominante a linguagem exotérica segundo a qual ele poderia legislar, ferir e definir os valores segundo os quais as relações inter-individuais seriam julgadas. O latim era, por sua formação, a língua de Virgílio, mas, para uso, aquela do direito: isso explica a preferência acordada ao latim sobre o grego, língua que, ao contrário, está mais conforme a cultura que a civilização francesa deveria procurar e mais rica para a formação do vocábulo desinteressado (de ciência pura).
+Mas a realidade social que presidiu a criação das escolas hoje não é mais aquela. O simbolismo verbal não basta mais. Sem dúvida, os alunos das escolas geralmente não se tornam operários ou artesãos. Eles não têm necessidade de um aprendizado. Os engenheiros ou administradores devem conhecer a máquina, porque eles devem assumir e pensar a relação social que há entre ao homem e a natureza. O operário vê essa relação; o administrador, não; ele não a pensaria como uma matéria abstrata se tivesse vivido-a existencialmente, durante o período em que seu ser foi formado, isso é, durante a infância ou a adolescência. Mais tarde, tornado adulto, abordando a máquina somente no laboratório, não teria aquela relação abstrata, sendo alimentador de um pensamento alienado".
+SIMONDON, 1953
+mbraz:
+Pensando nos dias de hoje e sobre MetaReciclagem como conceito e prática, imagino que a novidade que oferecemos é uma visão diferenciada sobre o uso de máquinas, técnicas e tecnologia.
+“Máquina” pode ser definida de formas variadas, mas adotamos a ideia de que máquina carrega inicialmente a intenção de uso de quem a pensou/inventou/construiu. Dessa forma é política e embute uma ideologia. Bill Gates vê o computador como uma máquina de produtividade para empresas, vê que a riqueza traz desenvolvimento que, em tese, seria compartilhado por todos. Linus Torvalds viu o computador como uma máquina de compartilhar e desenvolver conhecimento na forma de softwares (so) e liberou a sua criação para ser criticada/modificada/melhorada.
+Nesse sentido, e no do texto, uma máquina de engenho de cana não difere de uma máquina computadora, pois ambas criam uma classe dominante definida por uma relação econômica/política entre pessoas. A diferenciação se faz pela propriedade e pelo modo como essa máquina será utilizada: para produzir escravos ou para produzir dados/informação/conhecimento compartilhado.
+Minha proposta nos fundamentos da MetaReciclagem é que desconstruamos o significado de senso comum não só sobre tecnologia - pois ela é resultado, produto de um trabalho coletivo ou individual - mas ainda sobre ferramenta (que cria máquinas), máquinas (que além de produtos, produzem informação/conhecimento/política/etc), técnicas que são modos de se manipular/produzir sentidos e tecnologia que é o conjunto de determinadas técnicas para determinados fins.
+Vídeo: http://metareciclagem.org/wiki/index.php/Curso_Fundamentos_de_MetaReciclagem
+Don Ihde é um autor que teoriza muito bem sobre isso, mas acho que não tem nenhum livro dele traduzido para o português. Vide mais a fundo [1].
+Este texto, que é bem interessante, do Simondon, foi traduzido de onde?
+Ainda sobre tecnologia e escola, gosto muito do autor Paulo Cysneiros [2]
+[1] http://scholar.lib.vt.edu/ejournals/SPT/v1_n1n2/ihde.html
+[2] http://72.14.203.104/search?q=cache:UhlZfLMDnl4J:168.96.200.17/ar/libros/anpe /MC16.PDF+cysneiros+ihde&hl=pt-BR&gl=br&ct=clnk&cd=6&client=firefox
+dpadua:
+Acho que se tudo é tecnológico, se dos processos mais elementares do pensar humano até a construção coletiva de coisas gigantescas e complexas são aplicação da técnica, então não faz sentido usar esse conceito. Ele é intrínseco.
+Faz mais sentido falar de processos de usos. Exemplo: "vamos comer?" (leva ao fazer técnico do plantio ou criação animal, daí ao abate ou colheita, preparo, culinária, comer, cagar). E isso serve pra: "como eles vão me ouvir daqui, a tantos quilômetros?", "toca esse som depois desse aqui, fiédaputa!", etc.
+Acredito que agir é fazer tecnologia. Eu pelo menos tenho buscado nem usar o termo tecnologia ao falar de MetaReciclagem. Porque é isso aí: "tecnologia" é uma exceção linguística criada no capitalismo para taxar o produto da moda. Assim como falar "lixo" é anular o valor de um produto que gastou em sua função original ou não está na moda. Metareciclemos a linguagem.
+mbraz:
+Um dia desses, conversando com a Tânia, Munir e mais alguns novos metarecs da Vila Dalva, surgiu uma polêmica. Eu disse que vejo o termo tecnologia como o coletivo de técnicas para um objetivo comum. Por exemplo, há inúmeras formas de se escrever: com lápis, carvão, caneta, pincel, mijando no muro, e etc. São variadas técnicas (sempre no plural) de escrever que criam a tecnologia (no singular) da escrita.
+Variadas técnicas de plantio/colheita criam a tecnologia da agricultura. Munir discordou, e então perguntei: qual seria o coletivo de tecnologias?!
+efeefe:
+Na real, tecnologia tem uma coisa bonita...
+"Etimologicamente, a palavra Tecnologia é a conjunção dos termos tecn(o) e lógia, cuja origem provém da Grécia antiga. O termo tecn(o) surge do grego techno, de techne (técnica), expressando a ideia de arte ou habilidade. No entanto, a partir do século XIX, na linguagem erudita surgiu o termo lógia que deriva do grego log(o), significando palavra, estudo, tratamento ou conhecimento."
+Então, eu estava agora há pouco num momento de silêncio, e me ouvi pensar que metareciclagem não é uma perspectiva tecnológica, mas educacional.
+dalton martins:
+E, com certeza, é.
+Escolhemos tecnologia por uma mera confluência de fatores. Poderia ser com varas de bambu para fazer pipas. O objetivo tem sido, há tempos, apenas o jeito de caminhar.
+Resultados, bem... isso é coisa para governos.
+dpadua:
+O problema é que tecnologia já tem sentido maior para o resto das pessoas, que é o tal elitista. Eu mesmo já vi muitas pessoas daqui, do EstúdioLivre e do Software Livre, usando tecnologia nesse sentido elitista.
+Para fins de comunicação efetiva do que queremos, ou sabotamos, de fato, o "tecnologia" ou a gente muda o papo. Não sei o que é mais fácil.
+cyrano:
+A gente não mexe com tecnologia.
+A gente mexe com geringonça.
+Bugiganga.
+Sucata no nosso olho é refresco.
+pat cornils:
+Pessoas,
+Venho por meio desta confessar minha ignorância. E dar palpites. Se eu fosse vocês (qualquer hora vou estar mais sabida e poder dizer se eu fosse nós) não abriria mão assim da tal tecnologia. Sem conseguir definir direito o que é isso, vou aos exemplos: sensores na cabeça, sensores nos pés para ativar vídeo, computadores velhos que fazem tudo e meios baratos para estar em rede, uma lista onde se discute sem estar; o que a gente (ai, escorregou) faz todo o tempo é se apropriar dessa tecnologia.
+Desistir do termo, e da ideia, de tecnologias novas (essa velha, redefinam e eu aprendo outra vez), porque ela tem donos e é elitista, é somente uma forma de desistência. Tenho a impressão de que não foi por acaso, nem porque era bonito, que as coisas se formaram em torno de computadores, linguagens abertas de programação, reciclagem de computadores, teorias sobre novos direitos de autor. Poderiam ser palitos de bambu, sim, mas o que há de muito novo e subversivo para se inventar com palitos de bambu?
+Foi porque tudo isso é de ponta e porque deve haver outra ponta nessa história - essa onde estamos. É tecnologia sim, são bits e bytes e dizer que isso pode ser acessível, que isso não é mítico, é uma descoberta. Para mim, pelo menos. Dizer que tecnologia e lixo podem ser parecidos é mudar a perspectiva de olhar essas coisas, e isso é muito bacana. Deixar de lado é abrir mão de redefinir conceitos e uma nova relação, não-elitista, com tudo isso.
+mbraz:
+Ai é que tá... Não precisa ser sabida ou ter sabido para entrar nesse fluxo chamado lista_metarec. Já está, já é, já vem, já foi.
+O que penso_imagino é que palavras como tecnologia, elite e articuladores também são ferramentas, no sentido de algo para fabricar/criar outro algo que podem ser máquinas ou não. Não acho que existam tecnologias novas ou velhas, nem bugigangas e sucatas, sem ter havido antes uma ideia_máquina que funcionou_funciona para um fim previsto_e_não_visto.
+O que há, na realidade, é um fluxo de técnicas_tecnologias passando por mãos_e_sentidos.
+E, no meu sentido_sentimento bambu é ferramenta de ponta, sim. Já viu o que a cultura oriental é capaz de fazer com ele? Inovação para mim só acontece na hora do pensamento_criação_ação, algum tempo depois é bugiganga, sucata, lixo.
+efeefe:
+E, pensando no reincidente artigo da Joreen [1], é possível uma organização distribuída sem elite?
+A elite é uma coisa ruim por definição?
+[1]http://www.nodo50.org/insurgentes/textos/autonomia/21tirania.htm
+p.aulo:
+Escrevi uma coisa tão grande e o (por acaso windows) #$&#&, se desliga com o meu mail quase pronto...
+Enfim, mea culpa, né...
+ora pois:
+"Elite" é ruim por definição: são uns poucos que mandam (a tal da elite) e implica existir uma "massa", e só isso já não parece muito bom aos olhos de lógicas distribuídas de reapropriação e etceteras. Sei que o reapropriação também já se vai esgotando, mas, enfim...
+Daí mais palavras, de diversos contextos:
+Do mundo do crime:
+"Diretoria": os caras que decidem mesmo, efetivamente, "a diretoria falou que não rola, então não rola". Mal demasiado centralizado e muito forte, autoritário.
+"Professor": o cara que organiza (no sentido de planejar) o crime, que vê, observa, pensa e bola o plano, mas que precisa que os outros concordem e o acompanhem, ou se ferra. É por aí, pois qualquer um pode ser professor um dia e aprendiz no outro, mas a palavra já está tomada por outros conceitos. Então acho que não rola.
+Do comunismo:
+A "cúpula" do partido, os dirigentes no sentido daquelas pessoas que assistem às reuniões mais decisivas, mas que, teoricamente, chegaram lá como representantes de instâncias inferiores de representação. Dá uma ideia visualmente interessante, lembra até o céu, mas, de novo, não serve. A "cúpula" não se sustenta sem uma "base", e acho que não é o caso. Além do mais, as decisões da cúpula são irrevogáveis, e por aqui não tem disso: irrevogabilidade.
+Então tivemos que inventar mais palavras.
+"Articuladores" esgotou-se? Eu gostava do som dela, mas não sei muito bem de onde surgiu e que re-apropriações já sofreu.
+Enfim, só para criticar a palavra elite, falei demais.
+efeefe:
+“Articuladores” pode ter um sentido interessante, sim.
+Eu penso imediatamente em insetos artrópodes, articulados. Mas aí é minha mente estranha.
+ruiz:
+Eu só penso em cotovelos.
+cyrano:
+Bugiganga é tecnologia nova. Só que não necessariamente feita com coisas novas, nem para ser posta à venda. Deixar pra lá o termo tecnologia não é desistir de nada, assim, de antemão.
+A gente pode não usar a palavra porque ela não nos interessa. Como "elite". Deixamos quem fala demais falando sozinho. Abandonamos a ilha deles, alçamos vela, fomos pra Croatã. Nômade não foge, perde o interesse pelo inimigo. Isso não exige resposta, isso é sair do jogo perguntaXresposta.
+Desterritorializar um conflito é rasteira, rabo-de-arraia. Se neguinho não tá esperto, come poeira mesmo. E a gente aqui é ágil, sempre foi.
+A galera mexe com computadores não por acaso, mas justamente porque computador é "tecnologia". É justamente a "tecnologia" que faz a moda das "novas tecnologias", tá todo mundo olhando pra computador por que tá todo mundo olhando pro computador: pura redundância.
+Ninguém está olhando para quantos bambus se usa pra fazer um computador, e talvez o óleo da lombriga do pulgão da folha zen que cai do bambu poderia ser a última palavra em matéria-prima de componente eletrônico de processador, caso alguém estivesse pesquisando-a. Quem sabe? Sair das palavras às vezes, às vezes tirá-las do lugar. Às vezes tudo isso ao mesmo tempo, fazendo suco de manga enquanto assovia e dança maculelê usando bambu.
+Acho que hoje acordei dpádua. :D
+"Imprevisibilidade de comportamento, o leito não-linear
+segue para dentro do universo...
+música...
+quântica..."
+csnz
+Será que consegui falar alguma coisa? Não "desistir" de uma palavra, "adotar" outra, "inventar" outra. É simplesmente um desejo de não estabilizar nossa fala, apenas isso. Nomadismo. Remixemelexamizar a cultura.
+Rã. Tão achando que é só filósofo francês que fala difícil, é?
+paulo bicarato:
+Eu só sei usar 26 letrinhas e mais 10 dígitos e mais alguns sinaizinhos. E com isso vou brincando.
+cyrano:
+Cuidado, gafanhoto: que a colher como máquina de comer, substituindo sua mão, também pode entortar a sua mente. Que tal comermos com palitinhos de bambu e corrermos ao vento nas planícies?
+MetaReciclagem pode não ter sua língua, mas tem sua poesia.
+cyrano:
+Pois justamente, e precisamente ou não muito antes pelo contrário.  Poesia é derreter a língua em banho-maria, minha pátria é minha língua e eu não tenho pátria, tenho mátria e quero frátria!
+Ai que nojo, acordei Caetano hoje. Mas é verdade, em vez de definir nossos entendimentos das palavras é melhor definirmos nosso uso delas, e não explicando, mas fazendo. Ou seja, o de sempre: bora escrever,
+espalhar por aí, frases soltas, poesias, imagens, desmontar textos "apresentativos" e "introdutórios" de metareciclagem, desmontar o "aprenda a teoria e saberás a prática", desmontar, desmontar, desmontar.
+Não estou falando nada de novo, e isso é justamente uma dinâmica própria de grupos como o metarec. Não há linha, não há passado e futuro, não se aprendem coisas que vão se acumulando com o tempo e nunca mais retornam. Nosso tempo é o eterno retorno, nosso caos está sempre jogando e rejogando seus dados. Nossos erros sempre se repetem, nossas vitórias são sempre as mesmas, nós existimos no infinito. Todas as possibilidades cozinham aqui a cada instante.
+"Sim, eu sei muito bem de onde venho!*Insaciável como a chama no lenho,*Eu me inflamo e me consumo.*Tudo que toco vira luz*Tudo que deixo, carvão e fumo.*Chama eu sou, certamente".*(Nietzsche)
+Rapaz, será que foi alguma coisa que eu comi?
+efeefe:
+E que tal uma daquelas ondas de trackback? Todo mundo falando o que é MetaReciclagem, na diáspora psíquica?
+miguel caetano:
+José Luís Garcia está sempre a citar esse homem [1]
+Nesse texto, o meu professor faz uma síntese das ideias do alemão Simmel a respeito do dinheiro aplicadas à tecnologia. Segundo ele, com a ascensão da técnica, os meios suplantaram os fins, assim como o
+sujeito foi ultrapassado pelo objeto. É toda a visão catastrofista e apocalíptica da tecnologia.
+Uma coisa menos bafienta e mais virada para a atualidade: Como é que o conceito de metareciclagem se aplica ao trabalho de Eric Von Hippel com [2] "Democratizing Innovation" em que desenvolve a ideia de que grande parte da inovação tecnológica se deve cada vez mais aos esforços dos utilizadores finais que aos fabricantes?
+[1]http://www.ics.ul.pt/corpocientifico/joseluisgarcia/papers/simmel_dilemas.pdf
+[2]http://web.mit.edu/evhippel/www/democ.htm
+dpadua:
+"Reapropriação tecnológica para transformação social."
+Se tudo é tecnológico e social (discordância aqui?), não é melhor "reapropriação para transformação" ou "reapropriar para transformar"?
+Se reapropriação está contido no conceito de reciclagem e transformação,
+está ligado diretamente à mudança do paradigma competir_colaborar ou cercear_compartilhar, então não podia ser "reciclar para compartilhar"?
+efeefe:
+Eu já nem uso mais o REapropriação. Apropriação para transformação é legal. Mas meio vago. Redundância ajuda a entender, às vezes.
+|4. Materiais e Estruturas em Código Aberto 
+em 25 de fevereiro de 2010 
+f?r!: 
+Parece que a onda das impressoras tridimensionais começa a aparecer nas terras ricas 
+http://www.openstructures.net 
+http://openmaterials.org/ 
+Não sei até que ponto é possível pensar reciclagem de lixo eletrônico para a obtenção de polímeros ou da criação de algum tipo de impressora 3d por aqui... 
+Fica a faísca, 
+glerm: 
+http://desvio.weblab.tk/blog/fazedorxs 
+http://craphound.com/makers/ 
+http://www.makerbot.com/ 
+http://reprap.org/bin/view/Main/WebHome 
+http://www.thingiverse.com/ 
+Reciclar tem preço, pago por aqueles programados para serem os lixeiros cadastrados do processo industrial como projeto global de divisão do trabalho. Derreter  plástico, derreter ouro, derreter cobre, carregar o legado dos metais pesados ou produzir microchips cada vez menores e livres de componentes como chumbo, são discursos e condicionamento do gesto e ergonomia do trabalho encrustados na  mundial esteira taylorista de uma maneira tão complexa quanto eleições governamentais, fronteiras e flutuação financeira que transforma este esforço em capital que projeta e "materializa" estas esteiras. 
+Escrever ensaios, fazer suposições e jogos retóricos por emails dentro de rss de "redes", fazer canções, organizar festivais e transmissões de debates e poéticas é apenas um dos "polímeros" mais próximos de serem pensados por aqui. 
+Seguimos esta pesquisa buscando mais mãos livres e a capacidade de moldar qualquer objeto encontrado a dois palmos desta. 
+Vai por aqui meu ensaio, que ainda não consegui objetivar no projeto de esteiras alternativas, pelo simples espanto com o panorama de toda obsolescência do modelo industrial em jogo nesta grande máquina. Uma vertigem de perceber quantas voltas são necessárias na chave de fenda, pra que esta "alternativa" esteja a um passo de tornar um espelho. 
+Fazer uma impressora dessas, por mais artesanal que possa parecer, é uma decisão estupidamente industrial. Que quanto mais você toma, mais parece que já estava decidida anteriormente, com todas as cartas marcadas e moedas cunhadas ou no prelo. 
+Fazer ou não fazer, literalmente, eis a questão,,, 
+(voltando então pra http://desvio.weblab.tk/blog/fazedorxs )... 
+dasilvaorg: 
+e o que seria tornar um espelho? 
+glerm: 
+Reproduzir a mesma lógica industrial de divisão de trabalho alienado, manutenção da fetichização do consumo do supérfluo, posicionar-se num projeto de obsolescência programada e conformada. 
+vou tentar "refletir" mais aqui... colo abaixo um parágrafo onde comentei no googlereader um festival de música "faça-você-mesmo + focado em instrumentos musicais (http://createdigitalmusic.com/2010/02/22/scenes-from-amsterdams-music-inventors-when-circuits-code-and-concept-meet/) , porém acredito que minha reflexão se aplica também nesse caso do cenário de "Makers" que o f? apontou, sem mudar uma vírgula (tipo catar a maçã direto da árvore ou esperar ela cair na cabeça -> http://pt.wikipedia.org/wiki/Ca%C3%A7ador-coletor) 
+"Acho todo este cenário muito fértil como sempre, mas gostaria de elaborar melhor uma crítica quanto a fetichização deste tipo de prática e o porque no fundo é muito mais fácil fazer isso tudo sem dar tanta importância a realidade industrial que você está inserido, o que pode tornar o diletantismo em cima de juntar todos esses cacarecos algo como mais uma moda qualquer, uma reinvenção da guitarra elétrica e sua indústria de bebês mimados por uma formatação pré-concebida e neutralizadora da exposição de seus anseios críticos. 
+Me interessa a desconstrução da adoração aos gadgets tecnológicos na medida que eles tornam-se pra você algo ao mesmo tempo tão banal mas tão intenso quanto um rabisco que você faz numa folha branca enquanto pensa. Gostaria de ver essa cultura do "faça-você-mesmo" gerando um algo mais do que os objetos, mas um entendimento maior da nossa condição de criadores. 
+Por outro lado, a presença física dos objetos dá uma eloqüência que o texto não consegue aqui, então seguimos buscando esse algo que faz alguma falta e aí reside seu valor - o uso dessa possibilidade de novas linguagens pra tentar implodir de alguma maneira nossa condição de obsolescência programada numa rede de esteiras e apertadores de parafusos perdendo toda a festa da invenção da matemática e do universo como potência de criar novas liberdades cada vez mais até o limite. Os inventores independem da matéria prima, necessitam transformar linguagem em ação, sem necessariamente projetar a nova indústria, mas possibilitando uma ontologia do nosso encontro humano no limite do seu imprevisível. 
+" e/ou , 
+dasilvaorg: 
+sim, foi o que me pareceu 
+geralmente minhas percepções são pessimistas 
+mas isso me incomoda 
+ao mesmo tempo em que não consigo colocar em palavras o que penso sem me sentir ingênuo e superficial, reflito: 
+a posição que ocupamos muda a forma de ver. Não? 
+os acessos (cognitivos e outros) a realidades antes não imaginadas transformam o sujeito. 
+Hoje todo esse blá, blá, blá Industrial e produtivo mundial me parece uma merda extremamente poderosa, 
+o lance automaticamente corrompe qualquer coisa a depender do prazo 
+então talvez seja uma questão de tempo, do tempo que se tem antes que iniciativas sejam corrompida, cooptadas 
+viver tempos de coisas.... 
+saltar de tempos para tempos e de coisas para coisas... 
+mas tem uns discursos fortes por aí me dizendo que pensar em termos de bem / mal é limitadíssimo 
+mas me parece também que são séculos de adestramento 
+será que eu tenho pensamento autônomo? 
+lelex: 
+automatizado é que não é... 
+f?r!: 
+Isso talvez traga a obsoletização programada pra dentro de nós, como modo de vida, mas de maneira consciente. É preciso saber que somos obsoletos, enquanto máquinas. 
+Certa vez ouvi um ecólogo radical falando que o único estado sustentável para o planeta era antes da agricultura. 
+Esta noção de que cada gesto tem um tempo limite de sustentabilidade me parece muito importante, e é uma questão temporal que não é levada em conta na linha temporal de montagem industrial. A indústria não sabe parar, é um câncer produtor de tumor contínuo. 
+o tempo das coisas... quanto dura a cocaína no sangue e o chiclete no estômago? 
+Uma máquina não é eficiente porque é autônoma, mas porque está aberta ao improvável. Exemplo: um espremedor de laranjas automático gasta energia elétrica, precisa de mais tempo pra ser feito, códigos, chips, patentes e desperdiça laranja... e um espremedor de laranja de plástico (que há 6 meses procuro em vão aqui em sampa nas lojinhas de $1,99) além de usar ao máximo o recurso natural, exercita teu corpo e te põe em contato direto com o alimento e os aromas de sua casca. 
+Mas aí de novo é uma questão de tempo... e da eloquencia temporal dos objetos programados para desaparecerem sem ressentimento... poderíamos pensar além do biodegradável, um produto cronodegradável... pensar o desaparecimento do produto como parte de seu processo num sentido oposto do de fazer produtos ruins pra poder vender mais, mas fazer produtos que tragam em si a marca de seus limites... 
+Mas aí volta o Simondon: um motor de um Ford de 1930 serve ainda hoje pra puxar barcos porque suas peças eram polivalentes e estáveis pra funcionar sozinhas se necessário fosse, já um motor atual só funciona todo junto (porque a engenharia é uma forma de codificar os objetos contra a cópia)... como pensar um carro em código aberto? 
+Eu imprimiria um espremedor de laranjas manual se tivesse como... 
+Faça música sem instrumentos seria o único Faça-Você-Mesmo sensato. 
+dasilvaorg: 
+Obsoletização programada e obsolescência programada são a mesma coisa?  Se for, pensar nisso para o "humano" ainda me parece meio estranho. Seria uma autoprogramação? Ainda assim, quando penso nos procedimentos de saúde pública e na prática da formação biomédica aí, acho que tem alguma coisa desse tipo já em andamento há algum tempo. 
+Mas acho que você não está falando disso, mas sim de nos "programarmos" para as temporalidades de nossas coisas. Mas eu ainda não sinto confortável em pensar nisso como obsolescência auto-programada. Por que será? 
+A impressão que tenho não é que não saiba. É que não precisa. As "indústrias" (pode haver exceção) podem funcionar até morrer. Vivem de matar várias coisas ao seu redor, inclusive pessoas. Enquanto mantê-las vivendo é "rentável" de alguma forma, ótimo. Quando não mais, é só matar. 
+Aí a gente não estaria confundindo autonomia com automação? 
+Engraçado, eu acho que sempre pensei o bio pelo crono. Será? 
+Pensar a gente ainda está podendo (por enquanto), mas daí a ser algo praticável recai na questão da competitividade industrial. Pelo menos no mundo de hoje. Eu não consigo ver horizonte. 
+Devido à minha formação não tive contato com o Simondon, apesar de já ter ouvido muito falar. Mas, na parte operacional da coisa teve um estadunidense que deu o start nesse pensamento de intercambialidade, foi o Eli Whitney. Ainda que eu não goste muito das ideias estadunidenses, tivesse a gente continuado pensando sempre na questão da intercambialidade e talvez a industrialidade não fosse cada vez mais cruel. Provavelmente não sofreríamos tanto com os upgrades contemporâneos de PCs. Mas a intercambialidade passou a ficar na contramão da obsolescência percebida, que já é outro conceito. Muito, muito mais perverso que o da obsolescência programada. 
+"Eu imprimiria um espremedor de laranjas manual se tivesse como... " 
+Não precisa, por aqui tem. Manda o endereço em PVT que eu te mando pelos correios. Olha o meu na foto. É pequenininho, mas acho que consigo maiores sem problemas. hehe 
+A própria voz já pode ser considerada instrumento. Né não? Vi isso na Santaella (acho que ela reinterpretando alguém) e achei sensato. 
+efeefe: 
+ei glerm, f?, todxs 
+tô gostando da reflexão. acho que tem várias linhas aí: não sei se é possível fugir totalmente do fetiche (pela tecnologia ou por qualquer outra coisa) - no sentido de desejo que se dirige ao extravasamento da parte, do detalhe. acho que tudo que a maioria de nós faz tem parte busca de autonomia, parte busca de imprevisibilidade, parte fetiche, parte conformação. concordo com o f?, que autonomia total é ilusão - todo instrumento condiciona e restringe ao mesmo tempo que estende e liberta. 
+mas acho que o lance é também pensar em qual a velocidade a gente quer se adaptar ao que tá lá fora e vai continuar mudando. de certa forma, tem uma consciência de que a gente é pequenx e não vai mudar o rumo geral do desenvolvimento tecnológico - o makers, apesar de bem americaninho, coloca uma coisa que me parece provável - a indústria vai ignorar, depois combater, depois se apropriar do lance de prototipagem 3D. a gente pode manter um distanciamento crítico, que acho necessário que alguém mantenha, mas também acho que a gente pode se adiantar e propor maneiras de articular esse imaginário de forma que tenda mais à liberdade do que ao fetiche ou à obsolescência programada. 
+eu quero acreditar que, lá no horizonte quase inalcançável, o lance de impressão de coisas poderia levar a um cenário em que a obsolescência não é mais uma questão. no momento em que as coisas são livremente "fazíveis" e "desfazíveis" - tipo, quando a reciclagem acontece dentro de casa - qual é a importância da durabilidade das coisas? 
+talvez isso venha a trazer uma época que imploda todo o legado da era industrial - balizado pela utilidade, durabilidade, logística, tempo de mercado, etc. também sei que esse dia não vai chegar totalmente: é uma espécie de utopia, movida por um monte de elementos - o fetiche de uma nova tecnologia também tá na receita da mistura, como tantas outras coisas. um dos motivos que eu tenho pra querer saber mais sobre essas coisas é a babaquice de sempre - ver uma máquina nova funcionar de um jeito diferente. mas eu também quero saber de sintetizar coisas, e de mais uma forma de bits virarem átomos. 
+e as redes, rss, etc... rolou nessa semana uma discussão interessante na lista bricolabs falando de inclusão, exclusão, liberdade, etc. tem toda a referência do simondon que o f? trouxe aí. tem uma discussão começando semana que vem na lista empyre, moderada pelo menotti, que tá focada no lance de impressão 3D mas ele deu um toque que quer puxar pro lado da gambiarra, precariedade, etc. tudo isso são só bits correndo por aí, mas também são gatilhos potenciais de novas ações. 
+fora que tem mais uma porrada de coisas - li esses dias sobre uma galera do MIT pesquisando impressão de comida. se isso chega no nível de síntese de moléculas, eu nem consigo mais entender onde vai parar - tem coisas muito boas, tem coisas terríveis. quero estar no meio.
+"Não precisa, por aqui tem. Manda o endereço em PVT que eu te mando pelos correios". 
+Acho que isso é um exemplo bem claro. em vez de gastar com logística (dinheiro, combustível, poluição, suor do carteiro), o orlando podia mandar o esquema 3D do espremedor.  
+dasilvaorg: 
+gostei da perspectiva 
+por outro lado apenas você considera custos, gastos e desgaste das pessoas. Mas e se você pensa na perspectiva de receber algo material de alguém? 
+Sei lá. O lance de mandar uma informação que aí vai produzir um objeto desejado é muito diferente de mandar o objeto desejado, não? 
+Ainda que eu admita achar DUCA essa possibilidade de só enviar a informação digitalizada e poder ter lá do outro lado a coisa se materializando. Se é que eu entendi. :) 
+efeefe: 
+tem outro lance também. o marcus bastos falou ano passado no paralelo sobre o conceito do cradle 2 cradle - que se insere dentro da realidade industrial, mas é uma busca de fazer produtos que sejam totalmente retornáveis. uma levada meio técnica, química, tipo isso: 
+http://en.wikipedia.org/wiki/Cradle_to_Cradle 
+mas dá pra pensar também na articulação disso com coisas feitas em casa - não necessariamente os produtos precisam voltar pra indústria pra serem refeitos ou transformados em outras coisas. daí a pensar em máquinas que decomponham produtos, e daí a pensar em vasculhar o latão de lixo da vizinhança em busca de materiais interessantes pra fazer qualquer coisa, tem um cenário bem doido. é meio ficcional, claro, qualquer dessas coisas é muito complexa de fazer (mas e aí, volta vinte anos no tempo e pensa no wi-fi!). 
+aí é que tem o lance também de usar os interesses comerciais da indústria - que quer fazer novos produtos pra tirar dinheiro da gente - para impulsionar um tipo de desenvolvimento de tecnologia que a gente não consegue fazer sozinhxs. a gente pode dizer que não quer nada com eles, mas eu tô aqui teclando num aparelho que só existe nesse formato e com essa disponibilidade por causa da indústria. acho que é tudo questão de flexionar e entender qual é a autonomia, a liberdade e a conformidade em cada ação. 
+"Sei lá. O lance de mandar uma informação que aí vai produzir um objeto desejado é muito diferente de mandar o objeto desejado, não?" 
+claro que é. mas uma coisa não elimina a outra. acho que entra aí uma decisão pessoal em relação a tempo, custos, trabalho. fazer à mão um cartão pra alguém é diferente de mandar um SMS. eu posso usar um ou outro, é uma decisão pessoal. só acho que é bom evitar o maniqueísmo - por internet é ruim, por correio é bom - porque isso é bem ingênuo. 
+dasilvaorg: 
+aí nem tem o que discutir. 
+mbraz: 
+espremer laranjas é um processo industrial, se você mesmo não plantou as laranjas. ;) 
+efeefe: 
+É? E se eu comprei direto do produtor numa feira de assentados? 
+glerm 
+Vamos continuar então na hipótese do espremedor de laranjas (e ambigüidade da expressão calha aqui perfeitamente). Outra coisa que me chamou atenção foi o uso em certo momento das expressões "gambiarra" e "precariedade" como contíguas, quase como termos vizinhos. 
+Ela inicia aqui nessa construção de desejos subjetivos por dentro dessa pulsão da criação de indivíduos "Fazedorxs" pra já firmar o termo traduzido aqui no sintoma... 
+Pra mim a grande problemática está no TEMPO que este grupo aqui levará para construir sua impressora. 
+A tal "cronodegradação programada" dos nossos próximos dias, meses, anos como grupo de "fazedorxs" (algo que já não somos?). 
+O TEMPO industrial vem de outras esteiras, e daí minha vertigem. Vasculhando projetos como arduino desde seu início, hoje eu me sinto às vezes apenas mais uma peça de uma cultura de consumo e outras vezes uma ilusão de que arranquei a cabeça da hidra e novamente a vertigem, em loop... (E o arduino é uma das bases dessa cultura "maker"). 
+Seu espremedor de laranja não vai ter um custo unitário menor que 1,99 , porque ele vai gastar um tempo pra ser feito que vai te ocupar tardes e noites até que você compreenda totalmente o que você esta fazendo desde a modelagem 3D até ficar la esperando os motorzinhos Cnc controlarem uma bisnaguinha de plástico quente que vai levar horas para fazer UMA peça. Pior ainda quem não quer saber direito o que está fazendo - compre o kit, monte o seu, use a camiseta, veja o filme. 
+Disso duas coisas vão surgir: 
+1) ou você vai partir pra fazer mais máquinas dessa a ponto de sustentar uma cadeia produtiva destes objetos pra que compensem mais que os de 1,99 - daí  o que chamei de espelho - o limiar entre indústria e economia da sociedade que a rege. 
+2) ou você vai querer dar a este produto um status de artefato, de escultura e pontuar definitivamente como um dito inspirador. Vai poetizar sua forma e pensar naquele objeto como apenas um resíduo de todo um processo intelectual, cultural, humano no qual você percebe-se inserido e ali celebra totemicamente. 
+Me preocupa então a ilusão de acreditar que reciclando impressoras matriciais ou plásticos de 1,99 ("gambiarra": precariedade ou ecologia?) você vai estar no mesmo plano do que este cenário empreendedor (engenheiro, "preciso", programado) dos ricos que estão fazendo a conta de quanto NÓS CUSTAREMOS pra reciclar o lixo DELES. (Esta conversa esta sendo indexada e será útil para tudo isso). 
+Fazedores ou Recicladores? Reciclar é um fazer, um refazer ou uma "precariedade", uma má-condição de sobrevivência? Lembremos da noção pejorativa do termo gambiarra, e não apenas o ufanismo carnavalizado do seu fetiche. Vertigem? Morgado? Pessimismo? Gambiarra conceitual? Redundância? 
+A pergunta "prática" é: inserir se imediatamente no contexto, usar os kits que usam arduino e similares, fazer o jogo? Ou ficar aqui no bate-bola lúdico até alguém abrir um monte de impressora matricial e despretensiosamente, quase sem querer, duma maneira totalmente instável e precária, criar um frenkstin que dá conta da reflexão sobre o assunto e do conhecimento agregado. 
+Ou além do bem ou mal ir no fluxo? 
+Querem uma impressora dessa pra quando? É pra fazer mesmo? Alguém (ou algo) aqui podia encomendar esse kit que eu me comprometo ao jogo de montar e estudá-lo e tentar transformar esse capital em outra coisa (que tal uma coisa-pública?), ao invés de ficarmos aqui só na retórica do talvez-precariedade.  Precariedade e obsolescência conscientes? Vertigem. 
+Ou era só pra espremer laranjas? Isso dá pra fazer na unha. 
+novo neologismo pra coleção: Precariedadeologia. Gambiofetiche. 
+Derreter plástico vai feder. 
+fazer fazer fazer. falar. coisas. 
+(eu posso estar errado, mas vou mandar esse texto pra dentro desse "buzz", tomara que a engrenagem encrenque). 
+1 2 3 foi 
+"mas acho que o lance é também pensar em qual a velocidade a gente quer se adaptar ao que tá lá fora e vai continuar mudando". 
+isso. de certa forma já tava aqui. 
+mas lembrando que uma bomba de neutrons inicia sua detonação com o choque de minúsculas partículas que talvez num ínfimo instante inicial podem ter sido uma partícula empurrando outra. 
+ler também é fazer. (fico pensando aqui novamente no pessoal que lê tudo e se segura pra não responder, que autocontrole! que seja bem usado)... 
+efeefe: 
+acho que a longo prazo mais do que duas coisas podem surgir. não sei quais são.  
+não acho que no mesmo plano. mas acho que os planos vão se reorganizar e reconformar. nesse meio-tempo, tem espaço ou pelo menos potencial pra um monte de gente experimentar uma liberdade. liberdade restrita pelas circunstâncias sim, e certamente temporária. um dia acaba. mas e aí, negar a busca da liberdade porque ela não vai ser eterna (e talvez supor que liberdade eterna seja uma prisão tão ruim quanto a ausência dela?)? porque nem todo mundo tá na mesma pilha de ir a fundo? 
+esquecer toda tentativa de construção por causa da consciência de que nem todo mundo quer fabricar tijolo? 8, 80? 
+a pergunta prática precisa de resposta? se a pergunta é "1 ou 2", 
+posso responder "sim" ou "abacaxi"? acho que tudo. fazer com pretensão, fazer sem pretensão, não fazer, falar, ler. deixar a retórica voar também, o rss, o blog, o twitter, o buzz. deixa indexar tudo, empacotar e vender. sem dogma, com amor. 
+eu queria encomendar esse kit, pôr na tua mão e perguntar o que acontece. mas respondendo na prática, imposto de importação é uma 
+merda. isso aqui mais que duplica de preço:  
+http://store.makerbot.com/cupcake-cnc/cupcake-cnc-basic.html 
+alguém com conhecidxs na nortamerica pra trazer? 
+pensando aqui ainda... 
+"Outra coisa que me chamou atenção foi o uso em certo momento das expressões "gambiarra" e "precariedade" como contíguas, quase como termos vizinhos". 
+isso te incomodou? 
+vitoriamaro: 
+Ou lugares pra fazer placas de circuitos em pequena escala? Alguém? China? Santa Rita de Sapucaí? 
+Outros suportes físicos pra este livro aqui fora o papel? Plástico? Silício? Polímeros? Madeira? 
+Lembrando também que a atual república federativa do Brasil (de onde escrevo no momento) é uma grande exportadora de matéria-prima sempre em estado bruto. Há 510 anos. 
+Mais algum(a) gigante adormecido(a)? 
+efeefe: 
+ah, aqui 
+"Fazedores ou Recicladores? Reciclar é um fazer, um refazer ou uma "precariedade", uma má-condição de sobrevivência? Lembremos da noção pejorativa do termo gambiarra, e não apenas o ufanismo carnavalizado do seu fetiche. Vertigem? Morgado? Pessimismo? Gambiarra conceitual? Redundância?" 
+mas não são verdades (ou versões) simultaneamente válidas a noção pejorativa e o ufanismo carnavalizado? eu acho que o lance tem essas duas naturezas mesmo: criatividade latente, na adaptação à instabilidade, e a própria instabilidade como ambiente. 
+"China?" 
+e eu lembrei agora de um artigo que li em algum lugar, contando de empresas chinesas que ofereciam manufatura de eletrônicos sob encomenda: galera desenha, manda as especificações e os chinos fazem os produtos. não lembro onde li isso, mas agora aqui tava pensando carajo, já já tem sweatshop escravizando chinos pra fazer impressora 3D junto com os powermacs e nikes. e aí complica mais ainda a angústia do capitalismo e indústria e manufatura e não tem mais limite nem pergunta nem resposta. 
+shan zhai e open fabrication. 
+http://www.tigoe.net/blog/category/environment/295/ 
+glerm: 
+Ferramentas open source pra isso: 
+http://www.lis.inpg.fr/realise_au_lis/kicad/ 
+http://www.gpleda.org/ 
+Boa referência o texto do Tom Igoe, também recomendo. Mas percebam como o discurso e o referencial ali é "empreendedor", muito diferente do tom pretensamente ecológico, filosófico e poético do nosso discurso. 
+Seria interessante ler o ponto de vista "chinês", sobre esta cadeia de produção. 
+Olha que curioso, parece que o termo "shanzhai" ou "山寨" é algo traduzível de maneira tão ambígua quanto "gambiarra". (http://en.wikipedia.org/wiki/Shanzhai (*) - na verdade parece se referir mais aquela coisa de "chupar" marcas e designs ). 
+Reforço a pergunta: Onde imprimir os esquemas das placas? Saber fazer já sabemos; o que não sabemos, copiamos. 
+Desmontar impressoras este ano então? Triagem, testar motor velho? Solda com chumbo, a mais barata e abundante na praça? Diversão? 
+pula aí 
+vitoriamaro: 
+http://dictionary.cambridge.org/define.asp?key=1092012&dict=CALD 
+f?r!: 
+As hierarquias da meritocracia são a forma mais comum de obsolecência programada pelo sistema cultural europeu sobre os indíviduos manufactores. O sistema operacional cultural em vigor agora é justamente o do controle, em lugar do da disciplina do século da primeira expansão industriante. O Foucault não teve tempo ou coragem pra encarar que as mudanças do guarda panóptico olhando os funcionários para os funcionários se controlando pra não perder o emprego estava intrincadas com os próprios processos industriais. Se a escrita do XIX era a da linha de montagem mecânica (contos, romances poéticos), a de hoje é celular (nanoblogging, navegação em nuvens). Ok. Mudo a sentença: Os humanos no controle da indústria não sabem a hora de pará-las. Como criar prejuízos exorbitantes para o sofrimento. Como abolir qualquer forma de lucro insalubre por parte da indústria? Autonomia não é a automação tão precisa de um autômato, tal que este dispense o disciplinador externo? 
+Pensamos os produtos como seres vivos (antropomórficos mesmo). Há um tempo de morte nos objetos, até pra rolar o C2C.  Talvez começando por expôr os modos como a competitividade industrial se alojou nas nossas relações cotidianas. Eu moro em Sampa, não consigo ver o horizonte também. 
+Acho importante, por exemplo, retomar contato com os usuários Windows. E talvez uma boa forma de fazê-lo seja a de propor um DOWNGRADE... uma festa de instalações de Windows 98, só pra mostrar a vertigem. interobsolecência da cambialidade você pode visitar a Islândia, mas só se for pra ficar dentro do laboratório nos ensinando tudo o que sabe. O corpo é instrumento só nos casos de música de transe, quando é tocado por algo fora de si. Nos outros casos é um autômato. 
+O paradoxo da voz me remete a um ponto importante da tal 'mitologia da técnica de feitura'... Como poderíamos então falar da reciclagem como uma espécie de arte manual, ou ainda uma dança de e com objetos? ainda escrevo sobre isto quando menos entulhado. 
+Fetiche: de feitiço, encanto pelo charme. 
+Charme: do francês cármine do sânscrito carma. Carma: ação voluntária e suas consequências. 
+"e a gente pode se adiantar e propor maneiras de articular esse imaginário de forma que tenda mais à liberdade do que ao fetiche ou à obsolescência programada". 
+O satélite do MSST já está sendo programado para este tipo de maquinaria. 
+Um dos motivos pelo qual as máquinas de fazer café ainda não foram totalmente assimiladas nas residências se encontra num fetiche pelo coador de pano.
+Antes da apropriação é preciso que já haja uma descendência de uso poético, mesmo que somente virtual das técnicas. 
+Logo menos milhares de bandinhas farão sons POPureData. 
+A reciclagem muda do âmbito de uma conduta "desejável" e "ecopoliticamente correta" para uma economia dos materiais. 
+Sobre impressão de comida tem coisas aqui: http://www.nextnature.net 
+plantar laranjas é um processo industrial se a semente não é 100% orgânica 
+fbugnon: 
+A semente ser orgânica ou não influi na qualidade da laranja, não determina o processo de plantio. 
+Apesar de improvável, pode-se plantar manualmente sementes de laranja transgênica - quiçá, inconscientemente, por contaminação, como ocorre por exemplo com os milhos no México (http://henriquecortez.wordpress.com/2009/07/17/estudo-documenta-contaminacao-transgenica-no-milho-do-mexico/) 
+f?r!: 
+Como construir outras formas de consumo? 
+Então me parece imprescindível que nós nos totemizemos. Porque nós não vamos custar 1,99 por causa do tempo dispensado em nossas psiques pra processos de interciclagem de dados e ações. Glerm, quero te ver dando consultoria no Vale do Silício. 
+Por falar em Totem, já tem desenho Disney com personagens heróis da gambiarra. Uns pinguins africanos que vi na creche outro dia. 
+A gambiarra sempre me pareceu a menor distância entre dois pontos. Uma poética para tempos desprovidos de tempo. O pessimismo aceitaria a condição de não conseguir consumir certo produto ou serviço, enquanto a gambiarra o resolve.  Me comprometo com o projeto do objeto e o fedor do plástico. Agora a pergunta muda: Que produto seria útil ao maior número de pessoas? & é possível imprimi-lo? 
+Falar é fazer, ou pelo menos o é nas pessoas imprescindíveis. 
+Que produto é realmente necessário a muitos e que não consigamos fazer manualmente (fora o satélite)? 
+Quais estes limites do engenho manual e onde começa a nanogambiarra? 
+Ou ainda, quanto de design suporta o conceito de gambiarra sem ser fetichizado? 
+O positivismo (fazer é melhor que não fazer) ainda é o slogan da bandeira nacional. 
+lelex: 
+ordem e progresso e o mundo insiste em ser binário... esquecem que de zero a um temos o infinito... de possibilidades... na real, o mundo segue adolescente, tudo é definitivo, ou é isso ou é aquilo... 
+efeefe: 
+precisa ser "útil"? produto pode ser "objeto"? 
+lembrei do dpadua: 
+"por exemplo, podemos usar braçadeiras ou lenços no fórum de cultura digital, podemos sempre levar nossa bandeira. podemos fazer artefatos duradouros e nos presentear uns aos outros entre famílias, etc. podemos cultivar bonsais de volts, que vão conectar gerações." 
+http://rede.metareciclagem.org/blog/30-11-09/Sob-Mist%C3%A9rios 
+f?r!: 
+o eu 
+e ou 
+ou e 
+como reciclar o pensamento binário se ainda temos ressentimentos dele usando-o em cada clique? 
+prefere a novalíngua? 
+CONSUMIR É PRODUZIR 
+SIMPLES É COMPLEXO 
+CIÊNCIA É MODA 
+efeefe: 
+ou, diferente. "produto" pode ser "presente"? sem utilidade, mas essencialmente compartilhado? 
+glerm mais de uma vez circulou coisas por aí. recebi aquele pacote pelo correio com uma sensação diferente (diferente de contas ou compras). hd me lembrou essa semana que imprimir também é transformar bits em átomos. alguém compartilha um esquema de objeto (um totem metarecicleiro) pra gente montar em casa? nem precisa imprimir: desenha no papel em cima da tela. fabricação lowtech. 
+tati prado: 
+http://www.dw-world.de/popups/popup_printcontent/0,,2465447,00.html 
+efeefe: 
+descartógrafos: 
+http://organismo.art.br/blog/?p=2280 
+http://www.estudiolivre.org/tiki-browse_freetags.php?tag=nbp 
+http://e-ou.org/?tag=nbp 
+glerm: 
+"o problema das novas bases para personalidade é que ainda restam bases" 
+(mamelucovich) 
+http://www.youtube.com/watch?v=A3fYxbOsGRA 
+http://www.nbp.pro.br/blog_comentarios.php?critico=124 
+alguém quer fazer um nbp (ou um rb) no blender, imprimir num arquivo que abre em makerbot e mandar pra indexarem na documenta de kassel DE NOVO? kunst? 
+http://circuitoscompartilhados.org/wp (hospedado na primeira universidade pirata do braza, arigatô!) 
+tem essa coisa da disney também. tá rolando um boato que querem que a disneyland brasil seja em curitiba. estou atônito. 
+(http://www.google.com.br/search?q=disneylandia+curitiba&ie=utf-8&oe=utf-8&aq=t&rls=com.ubuntu:pt-BR:official&client=firefox-a) 
+Overload é tipo um pedal de guitarra. Quem quer pegar um lote desses pentium velho e fazer pedais de guitarra como metodologia didática de ensino computação e despertar Shanzhai? 
+tem informação aqui. 
+semana que vem vou dar uma passada em sampa, a gente vai começar um roadmovie na boca do lixo (Nouvelle Lixo)... 
+sta efigenia, akl abrç 
+ redescobri uma palavra nova hoje na língua brasileira -> (  ὀξύμωρον ) 
+( http://pt.wikipedia.org/wiki/Oximoro ) 
+o mais divertido é que ela já existia no dicionário, e eu não precisei me explicar!! 
+<<< 
+lelex: 
+CIÊNCIA É PODER! 
+glerm: 
+Focando então na pilha que felipe botou de já ir sacando os formatos abertos envolvidos: 
+* Este blog chamado thingverse compartilha arquivos de objetos imprimíveis, criados em 3d - http://www.thingiverse.com/ 
+http://www.thingiverse.com/upload 
+Supported Filetypes: 
+We allow uploading of almost any filetype. If you can digitally represent a physical object, then please upload your files to Thingiverse. 
+Renderable Filetypes: 
+Thingiverse will generate preview renderings of the following file types: 
+dxf - as created by QCad, autocad, etc. (2D only. We're working on 3D support) 
+svg - as created by Inkscape, Illustrator, etc. 
+ai - Adobe Illustrator files (save as Version 9 or below!) 
+cdr - Corel Draw files directly 
+jpg/gif/png - your favorite graphics formats 
+pdf - the common document format 
+tiff - for you high-resolution fans 
+eps/ps - postscript? why not! 
+stl - nice renders of your 3d designs. 
+sch - Eagle schematic files! 
+brd - Eagle board files! 
+pov - Povray files are cool with us. 
+vamos por partes. 
+mas a história dos pedais de guitarra (ou qualquer instrumento musical artesanal) posso trocar uma ideia com quem estiver interessado em paralelo. 
+A filmagem do Longa Metragem baseado no argumento da máquina de fazer moedas () começa semana que vem no centro de SP (entre outros encontros com cineclubismo, gambiarra, xanzai e rumores ) mas isso a gente deixa pra outra trédi, 
+aliás, essa trédi tinha virado um capítulo do livro gambiologia, continua? 
+quem mais quer dar uns parágrafos pro livro que a gente vai materializar? 
+gera: 
+Gambiarra é o resultado da soma do arame com  a desobediência. 
+É a forma de produção que inclui a ironia. 
+Que consegue escapar da lógica da concorrência. 
+É fundamental continuar se perguntando se não se está fazendo exatamente aquilo que esperam que você faça.
+E, ou, se. 
+Abraços 
+f?r! 
+idle shanzhai 
+perilogística 
+em santa if 
+"A ideia de progresso supõe a comparação entre dois estados, dos quais um é julgado superior ao outro, em virtude de uma medida comum que lhes é aplicável; a ideia de harmonia supõe a relação das partes de um todo harmonioso a um objetivo comum que a colaboração delas realiza. A medida comum dos estados progressivos é justamente esse objetivo comum: superioridade quer dizer utilidade maior relativamente a esse objetivo. Trata-se pois de saber se a natureza é essencialmente utilitária. Ela o é se todas as suas obras se reduzem a um fim supremo e universal, outro que não a própria mudança. 
+Mas, se a luz projetada sobre os fenômenos pela própria ideia de finalidade se dispersa em inúmeros brilhos intensos e curtos, e jamais vem do alto; se o objetivo comum de que falamos é sempre múltiplo, limitado, variável, e não mais se mostra a uma certa altura das realidades ascendentes; se dos acordos parciais do mundo sai perpetuamente um luxo de discordâncias, se as diversas utilidades são inúteis ou prejudiciais umas às outras, se as relações das diversas harmonias são naturalmente inarmônicas, heterogêneas, não comparáveis, não mensuráveis, ou só podem combinar-se e harmonizar-se por sua vez parcialmente e mediante o sacrifício da maior parte dessas harmonias, então teremos motivos de pensar que o universo põe sua razão a serviço de sua imaginação, suas leis e seus organismos a serviço de suas fantasias, e que a harmonia não explica tudo, já que não explica seu próprio efeito." - Gabriel Tarde em A Variação Universal. 
+Adriano Belisário: 
+antes Tarde do que nunca 
+acho que muito disso tudo tem mesmo a ver com o tempo 
+vivemos imersos em um tempo sob um tempo cronológico, divisível e regular (controlável) 
+um fazer indust (se) rial k1ller que lida com massas, padrões e previsibilidades 
+mas entre a ordem e o progresso surgem momentos, espaços, TAZes kairóticas 
+e um fazer artesanal p2p, aberto ao imprevisto, cuja ordem é imanente, fluída 
+hackers ou makers trabalham no limite entre estes tempos 
+divíduos vivendo em rede 
+(qual é mesmo meu login para acessar minhas memórias?) 
+as impressoras 3ds são fantásticas e vão provar de vez que a Internet está longe de ser um "mundo virtual". mas certamente será algo facilmente apropriado pela indústria. os problemas vão continuar sendo basicamente os mesmos: garantir formatos abertos, materiais sustentáveis, etc. 
+sinto vertigem é com as {possibili (singulari) dades} de pensar a biologia como tecnologia. que já acontece, mas está com toda questão do DIY em aberto. e quando der para imprimir bactérias para espremer laranjas ou para outras finalidades menos nobres? 
+DIY tem limite?

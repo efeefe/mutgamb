@@ -1,0 +1,180 @@
+DOS PROCESSOS
+|glerm
+http://artesanato.devolts.org/?page_id=439
+Navalha Abstraction v 1.1
+Baixe o pacote em zip [1] rar[2], e o video tutorial [3] em alta definição formato ogg-theora
+O Software como trabalho artístico - Artesanato de código
+Esse projeto é um estudo para estimular uma atividade que se torna cada vez mais evidente no universo do software livre e código aberto - a customização de softwares para ideias artísticas e para produção multimídia em geral, permitindo àquele que visa criar desenvolver suas ideias abstratas, partindo de maneiras rápidas de trabalhar com código, ao invés da lógica em que o artista é visto como um usuário de interfaces prontas que, ao tentar “prever aquilo que quer o usuário”, acaba impondo sua prática de uso.
+Com a escolha da linguagem puredata, que possui uma comunidade extremamente produtiva e colaborativa, por mais que essa interface esteja apresentando uma prática fechada em uma ideia de recortes de samples e um certo escopo, apresenta-se também como a abertura para ser recombinada com outros códigos e ideias, colocando-se como uma peça a ser aberta e transformada, sendo desde o início desse projeto documentada da maneira mais detalhada possível, para permitir tal recombinação.
+Esse é um Software (ou “patch”) totalmente desenvolvido com a linguagem Puredata, como um “objeto” para essa linguagem que pode ser acoplado a qualquer outro “objeto” disponível pela comunidade de desenvolvimento desse software e totalmente compatível com a versão distribuída no pacote “Pd-extended”. Para mais detalhes sobre instalação de Puredata veja [4] esta página.
+Navalha é um software desenvolvido com o intuito de tornar-se um estudo de caso em desenvolvimento rápido prototipado em Puredata de um sistema para performances musicais com interface gráfica e sistema de gerenciamento de “presets” (configurações) salvos em disco rígido. Além de sua utilidade para músicos e artistas, é também um detalhado estudo de caso de desenvolvimento em Puredata, podendo ser usado como estudo para implementação de outros algoritmos e ideias.
+O objeto gráfico - nvl
+O objeto nvl cria instâncias de um sequenciador de fatias (slices) de .wav que podem ser editadas e salvas na própria interface gráfica desse objeto.
+Estabelece também um arquivo padrão de metadados que permite que essas fatias sejam recarregadas na exata posição de onde foram salvas anteriormente - o arquivo .nvl.
+Essas fatias podem ser tocadas de maneira não-linear modificando padrões (patterns) de um sequenciador embutido que toca a uma velocidade determinada em batidas por minuto (podem ser subdivididas dentro desta mesma batida) a atual fatia numa sequencia determinada por esse “pattern”.
+Os objetos [nvl] podem ser conectados em cascata, pelos seus primeiros inlets e outlets - determinando assim um master da conexão mais acima que pode sincronizar os sequenciadores de patterns - determinando um “master sequencer” que irá controlar os demais “slaves” nvl.
+Esses pattern também podem ser salvos dentro do arquivo .nvl, criando assim uma possível navegação de clichês (ou “riffs”) que podem ser recuperados e repetidos durante uma performance.
+Os controles de edição da performance já estão todos mapeados para controles via teclado do seu computador. Se você necessita desligar essa função num objeto nvl, basta desligar a função “key” que fica no canto inferior esquerdo. Obviamente, se duas instâncias nvl estiverem com “key” ligado, ambas serão controladas simultaneamente pelo seu teclado[5].
+[nvl] - Interface Gráfica e padrão de entradas e saídas
+Sequencer
+a) Outlet de saída do sincronismo master-slave. Conduz o cursor do sequencer e o bpm atual.
+b) Outlet que mostra a posição atual do cursor.
+c) Sequência de slices que será executada durante a passagem do cursor master.
+d) Selecione a simetria de fatias desejada.
+e) Escolhe um número limite de slices que será randomizado e cria uma sequência de números randômicos para um pattern.
+f) Pattern de uma sequencia padrão para frente e para trás e zero.
+g) Carrega 10 patterns diferentes que estão salvos na matriz buffer da memória. Esses patterns são carregados no arquivo .nvl ou podem ser salvos com o procedimento descrito abaixo, no item “h”.
+h) Botão store (ou atalho shift+s) serve para atualizar no buffer de memória ram (não salva em disco) os atuais presets dos slices e patterns. Para salvar em disco você precisa dar um nome de arquivo na janela save_preset do canto inferior direito.
+i) Number box que define o número de células que o cursor vai correr. Isso torna possível fazer uma sequência com tempos ímpares ou diferentes de 8 batidas por compasso.
+j) Liga/Desliga os atalhos do controle de teclado.
+k) Liga/Desliga sequência master. É possível tocar mais de um master, mas obviamente não estarão imediatamente sincronizados.
+j) Cursor do sequenciador, dispara fatia atual.
+Atalhos de Teclado
+Os atalhos de teclado podem ser ligados/desligados com a caixa “key”.
+Use “qwertyuiop” para disparar os slices de 0 a 7.
+Use “asdfghjkl” para os slices de 8 a 15.
+Use “1234567890″ para os patterns 1 a 10.
+Use “zxcvbnm \, .” para mudar o pitch.
+Use a barra de espaço para tocar o sampler completo.
+Use shift+s para gravar modificações no buffer temporário.
+Depois disso, se você quiser salvar as modificações, escreva um nome para esse arquivo em “save preset” e pressione enter. Seu arquivo ficará salvo com nomedoarquivo.nvl na pasta /presets .
+Pitch-Bpm-Volume
+a) Outlet que mostra a nota (pitch) atual (numa escala númerica cromática com 12 notas para cada sequência de dó a dó - contando todos os semitons).
+b) Semitom relativo ao tom original da música, em execução naquele instante.
+c) Volume geral deste objeto [nvl] - o pequeno gira os dois juntos em stereo.
+d) Muda tempo do Sequencer em batidas por minutos. Determina o numero de subdivisões por compasso.
+e) Tom predominante atual, aplicada ou não uma variação de tonalidade. Os botões logo acima podem modificar esta tonalidade por semitom. Ou pelas teclas “zxcvbnm,.”
+Save Preset
+~) Saídas de áudio esquerda e direita.
+a) Abre um arquivo wav para editas as fatias (slices).
+b) Hack-me: atalho para abrir os códigos.
+c) Entrada do nome de arquivo a ser salvo. Escreva o nome sem a extensão .nvl e aperte enter. Os patterns salvos no último store (shift+s) serão salvos no arquivo
+d) Nome do .nvl atualmente em execução.
+e) Abre um .nvl da pasta.
+*PS: Sempre utilize as pastas “samples” e “presets”. Se for utilizar .nvl e .wavs de sua máquina de outras pastas. Não utilize samplers muito longos e, de preferência, recorte anteriormente o trecho que você quer utilizar, para não sobrecarregar o buffer. Este é um software de performance em tempo real, e não uma suíte de edição de áudio - para isso você tem softwares como audacity e ardour.
+Slices
+a) Sliders para seleção dos trechos. Acima início e abaixo o final. Quando editando, utilizar os atalhos “qwertyuiop” para selecionar os trechos de 0 até 7, e os atalhos “asdfghjkl” para 8 a 15.
+b) Essa tabela carrega o .wav que será executado e/ou fatiado. Utilize a barra de espaço para tocar o trecho todo.
+c) Fatia (”slice”) da seleção carregada pelo arquivo .nvl ou atualmente em buffer de memória ram. Quando modificar o trecho de um slice não esqueça de atualizar no buffer de memória ram com o atalho shift+s ou o botão Store. Utilize a entrada “save_preset” para salvar o arquivo em disco.
+A entrada de controles externa - o segundo inlet
+A maioria dos controles acima pode ser manipulada também por meio do segundo outlet, utilizando uma mensagem no formato “nome do modificador variável”. Exemplo: pitch $1 , onde $1 seria a variável de entrada do parâmetro pitch.
+Veja na figura abaixo (e no arquivo nvl-help.pd) uma lista com todos os modificadores:
+1 ) slice (número da fatia)
+2 ) tempo (com duas variáveis - bpm e divisão do compasso)
+3 ) preset (nome do arquivo nvl - que deve estar na pasta presets)
+4 ) pattern (numero do pattern do buffer de 1 a 10)
+5 ) key (liga e desliga acesso a teclado)
+6 ) seq (liga e desliga sequenciador)
+7 ) vol (volume de 0 a 1)
+8 ) random (número limite da célula do pattern seguido de gerador randômico de pattern)
+9 ) pitch (intervalo em semitons em relação a nota atual)
+10 ) div (numero de células no compasso atual do sequenciador)
+11 ) normalize (bang - normalizar a faixa na amplitude máxima)
+12 ) mono2x (bang - duplicar uma faixa mono para dar um falso efeito estéreo)
+13 ) simetria (número de slices - cria slices simétricos em divisão exata do tempo total )
+14 ) wav (nomedoarquivo.wav abre um arquivo .wav que esteja na pasta samples )
+Mininvl
+O objeto [mininvl] é uma versão minimalista do objeto nvl, feita, sobretudo, para uso ao vivo e para facilitar o uso de várias instâncias simultâneas em prototipagem rápida e improviso com outros patches e objetos de puredata.
+Seus inlets e outlets são exatamente os mesmos do objeto [nvl]:
+Esse objeto depende principalmente do uso inteligente do segundo inlet:
+Ele aceita todas as mensagens modificadoras do objeto [nvl] original:
+1 ) slice (número da fatia)
+2 ) tempo (com duas variáveis - bpm e divisão do compasso)
+3 ) preset (nome do arquivo nvl - que deve estar na pasta presets)
+etc. (ver “A entrada de controles externa - o segundo inlet” mais acima)
+Nvlvideo
+Para facilitar a sincronia com frames de um vídeo, o pacote inclui também a abstração chamada [nvlvideo], que é um player simples de vídeo .mov pronto para ser sincronizado pelo outlet de cursor dos objetos [nvl] ou [mininvl] e também pronto para abrir simultaneamente um arquivo .mov de nome igual ao arquivo .wav ou .nvl que será executado. Perceba que os arquivos devem ser preparados previamente, separando o arquivo .mov de seu correspondente em .wav e salvando-os respectivamente nas pastas /samples e /movies da sua instalação no Navalha. Para separar som e imagem em arquivos distintos, utilize o programa ffmpeg (http://ffmpeg.org/) ou similar.
+Repositório:
+Você também pode clonar este projeto como um repositório Git rodando:
+$ git clone git://github.com/glerm/navalha
+[1]http://estudiolivre.org/repo/7633/navalha1.1.zip
+[2]http://estudiolivre.org/repo/7632/navalha1.1.tar.gz
+[3] http://juntadados.org/sites/default/files/video/navalha.ogg
+[4] http://artesanato.devolts.org/?page_id=95
+[5]http://juntadados.org/sites/default/files/video/navalha_tour.ogg
+|2. ZASF - Zonas Autônomas Sem Fio
+por efeefe
+original em http://desvio.weblab.tk/blog/zasf
+"Mr. programmer*I've got my hammer*Gonna smash my, smash my radio!"*Ramones, We want the airwaves 
+"Para explicar como as forças astrológicas poderiam produzir ação à distância, Mesmer postulou um fluido sutil que ele chamava fluidium, um meio diáfano que comunicava vibrações lunares para as marés da mesma forma que possibilitava que Vênus e Júpiter ajustassem os destinos humanos. O fluidium tomava forma no conceito Newtoniano de éter, um fluido invisível que permearia o espaço e serviria como meio estático para a gravitação e o magnetismo, bem como sensações e estímulos nervosos. Para Newton, o éter servia para explicar como os corpos distantes do sistema solar comunicavam-se uns com os outros, e ao mesmo tempo livrar-se da abominável ideia de um universo em que existisse o vácuo."
+Erik Davis, Techgnosis
+Eletrônicos equipados com wi-fi [1] são geralmente vistos somente como dispositivos de acesso à internet. Entretanto, assim como Brecht [2] propôs para o rádio, é possível pensar em um uso alternativo das tecnologias sem fio para a criação de redes informacionais locais, não conectadas à internet e que não dependam de uma infra-estrutura centralizada. O acesso ubíquo à internet tem certamente um aspecto de integração, mas, por outro lado, também traz uma grande alienação do sentido de local: cinco pessoas sentadas em um café acessando seu email ou Orkut com wi-fi são cinco pessoas mantendo-se alheias umas às outras e ao entorno. É certamente possível argumentar que essas cinco pessoas podem usar a internet para acessar informação local, mas é raro que tentem. Mesmo quando buscam esse tipo de informação, acabam buscando em estruturas centralizadas como o Google ou a Wikipedia.
+Um dos conceitos fundadores da rede Bricolabs[3] foi o de infra-estruturas genéricas de informação (generic information infrastructures)[4]. Em essência, tratava-se de adotar padrões abertos de comunicação para a criação de redes para usos múltiplos e não determinados, fazendo uso de dispositivos genéricos de informação (os GIDs, generic information devices) e tratando de incentivar a apropriação de possibilidades técnicas e como implementá-las. Buscava-se delinear estratégias para o desenvolvimento de ciclos de inovação baseados em informação livre (hardware aberto, software livre, espectro aberto e conhecimento/cultura livres). Foi a partir desse posicionamento que a Bricolabs conquistou o apoio e a participação de pessoas e coletivos em todo o mundo, que atuavam em projetos que compartilhavam dessa perspectiva, além de ter criado campo para o desenvolvimento de projetos relacionados, como o Bricophone[5].
+Em todo o mundo, a tensão entre a liberdade na rede e as políticas de controle usando pretextos diversos - pirataria, pedofilia, etc. - chama a atenção para uma questão hipotética mas, ainda assim, presente: o que acontece quando alguém puxar a tomada da internet? A estrutura de domínios, que dá identidade à rede permitindo que as pessoas saibam como acessar os sites de outrxs, é controlada por uma organização norte-americana. A criação de infraestruturas genéricas e autônomas, além de objetivamente possibilitar arranjos de rede diferenciados, também atua no sentido de desenvolver estratégias de sobrevivência para o pior cenário.
+Rob van Kranenburg, um dos criadores da Bricolabs, publicou pelo Institute of Network Cultures de Amsterdam um ensaio chamado "The Internet of Things"[6], em que chama atenção para a necessidade de combater o hábito da indústria de TI encapsular o conhecimento que embarca no desenvolvimento de seus produtos. Para fazer frente a essa tendência, é vital que se criem espaços de experimentação técnica e social, onde seja possível explorar (mesmo que à força) a indeterminação potencial dos mais variados dispositivos eletrônicos de comunicação. Esses espaços têm emergido em todo o mundo, atuando em rede e construindo ciclos de aprendizado e inovação que passam longe das estruturas tradicionais. No Brasil, uma dessas redes é a MetaReciclagem[7], que conta com algumas centenas de integrantes e dezenas de projetos e espaços.
+Autonomia em rede
+Desde que a MetaReciclagem começou a ser articulada, em 2002, alguns dos seus integrantes tinham a intenção de desenvolver redes sem fio autônomas baseadas em hardware remanufaturado e software livre, mas só recentemente os equipamentos para conectividade wi-fi têm se tornado mais acessíveis. Hoje é possível retomar essa intenção original da MetaReciclagem buscando as referências da rede Bricolabs e do projeto mimoSa[8], e aproveitando o conhecimento compartilhado por projetos como Burnstation[9], Freifunk[10], Guifi[11], Hive Networks[12] e RedeMexe[13].
+O núcleo Desvio propõe, nesse sentido, o desenvolvimento de zonas autônomas sem fio (ZASF), um conjunto de soluções de hardware e software para a criação de redes wi-fi autônomas para diversos usos experimentais e informacionais. É uma ação de uso crítico de tecnologias cada vez mais abundantes para a criação de zonas autônomas sem fio.
+Um aspecto técnico do wi-fi - a criação de redes "ad-hoc", de ponto a ponto - pode ser estendido para a criação de redes mesh[14], em que cada equipamento conectado torna-se também parte de uma infra-estrutura compartilhada de rede. O projeto ZASF articula a implementação dessas redes com uma reflexão sobre algumas polaridades que emergem: criação de sentido local ou dissolvência na internet; compartilhar e acessar informação livre ou ensinar e aprender a partir da descoberta e do desafio; usar ferramentas comerciais remotas ou manter serviços de rede no próprio computador; etc.
+Uma possibilidade ainda pouco explorada é o reuso de hardware para estabelecer as redes autônomas. Qualquer computador feito nos últimos dez anos é mais do que suficiente para oferecer serviços de rede como servidor web com sistemas colaborativos de gestão de conteúdo - wikis e blogs; servidor de chat e mensagens instantâneas; armazenamento e acesso de arquivos de mídia e documentação; e até serviços de stream de áudio e vídeo. Os aspectos de descentralização e auto-replicação das redes mesh também são estendidos ao projeto através da disponibilização de documentação e de todo o software necessário para a criação de redes semelhantes em outras localidades e contextos.
+Na prática, o protótipo de ZASF é uma rede mesh localizada em espaço público, e acessível a qualquer dispositivo que queira se conectar a ela. Uma vez dentro da rede, qualquer tentativa de navegar na internet direciona o dispositivo para um site local, que dá acesso aos diferentes serviços disponíveis - wiki aberto, chat, diretório de mídia compartilhada, documentação técnica e conceitual sobre a própria rede, tutoriais e software para replicação, etc. Dependendo do contexto, a rede pode oferecer conteúdo específico, atuando como totem wireless ou espaço de informação.
+Documentando: vamos publicar toda a documentação relacionada ao projeto ZASF na tag "wireless" do blog desvio[15].
+[1]http://pt.wikipedia.org/wiki/Wi-Fi
+[2]http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142007000200017
+[3]http://bricolabs.net/
+[4]http://robvankranenburgs.wordpress.com/2007/03/18/generic-infrastructures-in-noema/
+[5]http://bricophone.org/
+[6]http://networkcultures.org/wpmu/portal/publications/network-notebooks/the-internet-of-things/
+[7]http://rede.metareciclagem.org/
+[8]http://mimosa.metareciclagem.org/
+[9]http://www.platoniq.net/burnstation/
+[10]http://freifunk.de/
+[11]http://guifi.net/
+[12]http://hivenetworks.net/
+[13]http://rede.metareciclagem.org/conectaz/Rede-Mexe
+[14]http://pt.wikipedia.org/wiki/Redes_Mesh
+[15]http://desvio.weblab.tk/tag/wireless
+|3. Robótica Livre
+http://rede.acessasp.sp.gov.br/?q=node/185
+por guimasan
+Proposta: Construir, a partir de sucata eletro-eletrônica, um Kit Didático de Robótica-Livre constituído de um microcomputador para operação do robô com sistema operacional GNU/Linux e outros software-livres; um metabot (robô metareciclado) construído também a partir de sucatas de Lixo-Eletrônico (e-Waste).
+Sistema Operacional: Debian; Softwares: Kommander; Hardware: Material coaptado de doações e/ou descartados pela sociedade em forma de "lixo". (sucatas eletrônicas em geral).
+Educação em Software e Hardware-Livre, buscando: 
+1. Captar determinada quantidade de lixo eletrônico para fazer uma triagem do material a ser utilizado durante a oficina;
+2. Ensinar conceitos básicos de eletro-eletrônica para os oficinandos começarem a produzir experiências diversas, sem nenhum objetivo até então;
+3. Mostrar a metodologia do Hardware e Software-Livre para a criação dos primeiros protótipos de robôs;
+4. Determinar um objetivo de criação a partir de um protótipo já construído;
+5. Produção do robô escolhido (que pode ser inventado na hora, e que não necessariamente tenha um uso específico - a escolha do robô sempre será determinado pelo material que está disponível para utilização); "sevirismo";
+6. Ensinar a linguagem de programação para controle dos periféricos (robôs) construídos via Software>>Hardware-Livre;
+7. Documentação do projeto;
+8.Criação do Kit Didático de Robótica-Livre, que poderá ter uso próprio ou será doado para uma instituição de ensino e/ou projeto afim.
+Kit de Oficinas - Do Lixo ao Livre
+em http://rede.acessasp.sp.gov.br/?q=kit-de-oficinas
+por guimasan
+O kit de oficinas é um material de apoio para as oficinas de:
+1. Montagem e Manutenção de Computadores
+2. Introdução ao Linux
+3. Robótica Livre
+Kit 1 - Montagem e Manutenção de Computadores, constituído de:
+* 1 microcomputador reciclado e funcionando, com ou sem sistema operacional GNU/LINUX;
+* 1 microcomputador desmontado e com peças que não funcionam, para treinamento durante a oficina;
+* 1 Apostila encadernada da oficina, feita integralmente com conteúdo sob licenças de uso Creative-Commons.
+Kit 2 - Introdução ao Linux, constituído de:
+* 1 microcomputador reciclado e funcionando, com ou sem sistema operacional GNU/LINUX;
+* 1 Cd-rom com o Sistema Operacional customizado especialmente para a máquina doada;
+* 1 Cd-rom com programas e tutoriais de suporte à oficina;
+* 1 Apostila encadernada da oficina, feita integralmente com conteúdo sob licenças de uso Creative-Commons.
+Kit 3 - Robótica Livre, constituído de:
+* 1 microcomputador reciclado e funcionando, com ou sem sistema operacional GNU/LINUX;
+* 1 metacarbot (carrinho feito com peças recicladas de "lixo-eletrônico" controlado pela Porta Paralela do computador);
+* 1 conjunto de peças para construção e customização de outro metarobot (robô construído com peças de "lixo-eletrônico);
+* 1 Cd-rom com modelos de programa para controle via porta-paralela dos metarobots desenvolvidos;
+ * 1 Apostila encadernada da oficina, feita integralmente com conteúdo sob licenças de uso Creative-Commons.
+Ajudar projetistas e parceiros a replicar as oficinas propostas, usando como estratégias: 
+1° Cooptar doações de micro-computadores danificados ou não;
+2° Fazer uma oficina de montagem e manutenção, aproveitando para triar os equipamentos, separando os que funcionam para montagem das máquinas;
+3° Separar as máquinas que já estão funcionando para a oficina de Introdução ao Linux, para fazer instalação do sistema operacional GNU/Linux;
+4° Usar as máquinas que já possuem sistema operacional, para aplicar uma oficina de Robótica Livre durante a qual serão instalados os programas para criação do controle para o metacarbot e outros projetos de controle via porta paralela do computador.
+5° Documentar todo o projeto para que possa ser replicado livremente;
+6º Disponibilizar os kits para doação aos projetistas, de acordo com os requerimentos e critérios a serem disponibilizados nesta página. 
+|4. Fábr1ca iluminad0 
+ricardo brazileiro 
+original em http://rbrazileiro.info/blog/fabr1ca-iluminad0/ 
+…a Fábrica do Carnaval em Olinda virou canteiro de tecno-OBRA. 
+<inserir imagem http://rbrazileiro.info/wp-content/uploads/2009/12/estrutura.jpg> 
+Durante as manhãs desse verão, eu e parceiros do Ponto de Cultura Alafin Oyo estamos empenhados no desenvolvimento de um instrumento didático que conecta a ancestralidade dos ilús com as tecnologias faça-você-mesmo dos hardwares e softwares livre. O projeto ILUMINADO, aprovado nas Interações Estéticas da Funarte em 2009, é uma pesquisa para adaptar o instrumento ilú (instrumento de percusão de rituais de matriz africana) para reconhecer gestos e movimentos e transformá-los em novas sonoridades e timbres, funcionando como uma interface controladora. O projeto é baseado no trabalho do Jaime Oliver, que desenvolveu o projeto Silent Construtcion. Os trabalhos estão acontecendo dentro da fábrica de carnaval de Olinda, antigo galpão de depósito uma grande empresa. 
+Nas primeiras semanas, estudamos a estrutura do ilú e pesquisamos o material ideal para construir a estrutura do instrumento. Decidimos fazer a estrutura de ferro, o bojo com um material parecido com acrílico transparente para que a câmera capture os movimentos quando pressionada a pele de elástico. Também construímos um tripé metareciclado, aproveitando alguns materiais que estavam no lixo. Ainda não vimos qual o elástico ideal para a pele. 
+Paralelo à construção, montamos uma estação multimídia para começar a estudar hardware e software livre para desenvolver o programa que vai reconhecer toda interface. Instalamos o Ubuntu 9.04, configuramos toda parte dos source.list e botamos os pacotes multimídia clássicos. Neste projeto, vamos desenvolver toda estrutura lógica utilizando o pure-data extended e talvez alguma outra biblioteca externa. A câmera do PS3 será a responsável pela captura dos movimentos, enquanto um Arduino e um metaTeclado serão feitos de pedais e sensores para efeitos. Nesta semana, configuramos e testamos a câmera do PS3 seguindo este tutorial indicado pelo Jaime. 
+O calor tá grande, mas os estudos estão apenas começando. A proposta é que depois que instrumento estiver mais afinado, aconteçam performances com ele e também sirva de material de estudos para quem quiser se aprofundar em música, tecnologia livre, arte. Vou documentando as atualizações por aqui e espero trazer mais novidades e avanços. 
+
+saúde;

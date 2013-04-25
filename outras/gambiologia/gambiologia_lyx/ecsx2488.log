@@ -1,0 +1,320 @@
+This is METAFONT, Version 2.718281 (TeX Live 2009/Debian) (base=mf 2010.8.13)  25 AUG 2010 15:48
+**\mode:=dpdfezzz; mag:=1+0/(2*4000); nonstopmode; input ecsx2488
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/ecsx2488.mf
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/exbase.mf)
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/ecsx.mf
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/exroman.mf
+ Ok (/usr/share/texmf-texlive/fonts/source/jknappen/ec/exaccess.mf
+ Ok) (/usr/share/texmf-texlive/fonts/source/jknappen/ec/expseudo.mf
+ Ok) (/usr/share/texmf-texlive/fonts/source/jknappen/ec/exruwest.mf
+ Ok
+The letter A with gravis [192]
+The letter A with acute [193]
+The letter A with circumflex [194]
+The letter A with tilde [195]
+The letter A with umlaut [196]
+The letter A with ring [197]
+The ligature AE [198]
+The letter cedilla C [199]
+The letter E with gravis [200]
+The letter E with acute [201]
+The letter E with circumflex [202]
+The letter E with umlaut [203]
+The letter I with gravis [204]
+The letter I with acute [205]
+The letter I with circumflex [206]
+The letter I with umlaut [207]
+The letter (Eth) bar D [208]
+The letter N with tilde [209]
+The letter O with gravis [210]
+The letter O with acute [211]
+The letter O with circumflex [212]
+The letter O with tilde [213]
+The letter O with umlaut [214]
+The ligature OE [215]
+Scandinavian letter O/slash [216]
+The letter U with gravis [217]
+The letter U with acute [218]
+The letter U with circumflex [219]
+The letter U with umlaut [220]
+The letter Y with acute [221]
+The letter Thorn [222]
+The letter Sharp S (SS) [223])
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/exrlwest.mf
+ Ok
+The letter a with gravis [224]
+The letter a with acute [225]
+The letter a with circumflex [226]
+The letter a with tilde [227]
+The letter a with umlaut [228]
+The letter a with ring [229]
+The ligature ae [230]
+The letter cedilla c [231]
+The letter e with gravis [232]
+The letter e with acute [233]
+The letter circumflex e [234]
+The letter e with umlaut [235]
+The letter i with gravis [236]
+The letter i with acute [237]
+The letter circumflex i [238]
+The letter i with umlaut [239]
+The letter edh [240]
+The letter n with tilde [241]
+The letter o with gravis [242]
+The letter o with acute [243]
+The letter o with circumflex [244]
+The letter o with tilde [245]
+The letter o with umlaut [246]
+The ligature oe [247]
+Scandinavian letter o/slash [248]
+The letter u with gravis [249]
+The letter u with acute [250]
+The letter u with circumflex [251]
+The letter u with umlaut [252]
+The letter y with acute [253]
+The letter thorn [254]
+German letter scharfes s [255])
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/exrueast.mf
+ Ok
+The letter A with breve [128]
+The letter A with ogonek [129]
+The letter C with acute [130]
+The letter C with hachek [131]
+The letter D with hachek [132]
+The letter E with hachek [133]
+The letter E with ogonek [134]
+The letter G with breve [135]
+The letter L with acute [136]
+The letter L with hachek [137]
+The letter crossed L [138]
+The letter N with acute [139]
+The letter N with hachek [140]
+The letter Eng [141]
+The letter O with double acute [142]
+The letter R with acute [143]
+The letter R with hachek [144]
+The letter S with acute [145]
+The letter S with hachek [146]
+The letter cedilla S [147]
+The letter T with hachek [148]
+The letter cedilla T [149]
+The letter U with double acute [150]
+The letter U with ring [151]
+The letter umlaut Y [152]
+The letter Z with acute [153]
+The letter Z with hachek [154]
+The letter Z with dot above [155]
+The letter IJ [156]
+The letter I with dot [157])
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/exrleast.mf
+ Ok
+The letter bar d [158]
+The letter a with breve [160]
+The letter a with ogonek [161]
+The letter c with acute [162]
+The letter c with hachek [163]
+The letter d with hachek [164]
+The letter e with hachek [165]
+The letter e with ogonek [166]
+The letter g with breve [167]
+The letter l with acute [168]
+The letter l with hachek [169]
+The letter crossed l [170]
+The letter n with acute [171]
+The letter n with hachek [172]
+The letter eng [173]
+The letter o with double acute [174]
+The letter r with acute [175]
+The letter r with hachek [176]
+The letter s with acute [177]
+The letter s with hachek [178]
+The letter cedilla s [179]
+The letter t with hachek [180]
+The letter cedilla t [181]
+The letter u with double acute [182]
+The letter circle u [183]
+The letter y with umlaut [184]
+The letter z with acute [185]
+The z with hachek [186]
+The letter z with dot above [187]
+The letter ij [188])
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/exbraces.mf
+ Ok
+Circumflex (hat) [94]
+Tilde (squiggle) [126]
+Compound word mark [23]
+Left parenthesis [40]
+Right parenthesis [41]
+Less than sign [60]
+Vertical line [124]
+Greater than sign [62]
+Left bracket [91]
+Right bracket [93]
+Reverse slash (backslash) [92]
+Left curly brace [123]
+Right curly brace [125]
+Underbar [95]
+Hyphenchar [127]
+Blank-space sign [32])
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/expunct.mf
+ Ok
+Single left guillemet [14]
+Single right guillemet [15]
+French opening quotes [19]
+French closing quotes [20]
+German opening comma [13]
+German Opening quotes [18]
+Exclamation point [33]
+Apostrophe [39]
+Asterisk [42]
+Plus sign [43]
+Comma [44]
+Period [46]
+Virgule (slash) [47]
+Colon [58]
+Semicolon [59]
+Equals sign [61]
+Reverse apostrophe [96]
+Spanish open exclamation point [189]
+Closing quotes [17]
+Hyphen [45]
+Opening quotes [16]
+En dash [21]
+Em dash [22]) (/usr/share/texmf-texlive/fonts/source/jknappen/ec/exaccent.mf
+ Ok
+Grave accent [0]
+Acute accent [1]
+Circumflex (hat) accent [2]
+Tilde (squiggle) accent [3]
+Umlaut (double dot) accent [4]
+Double acute accent (Long Hungarian umlaut accent) [5]
+Scandinavian circle accent [6]
+Hachek (check) accent [7]
+Breve accent [8]
+Macron (bar) accent [9]
+Dot accent [10]
+Cedilla accent [11]
+Ogonek [12]) (/usr/share/texmf-texlive/fonts/source/jknappen/ec/exsign.mf
+ Ok
+Zero for p mille sign [24]
+Straight double quotes [34]
+Hash mark (number sign) [35]
+Dollar sign [36]
+Per cent sign [37]
+At sign [64]
+Sterling sign [191]
+Section sign [159])
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/exrlig.mf
+ Ok
+Dotless letter i [25]
+Dotless letter j [26]
+The ligature fi [28]
+The ligature ff [27]
+The ligature fl [29]
+The ligature ffi [30]
+The ligature ffl [31])
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/exromp.mf
+ Ok
+Ampersand
+! Value is too large (4344.00195).
+term.r->...2)r,(EXPR6)*(y(SUFFIX3)r-y(SUFFIX2)r));
+                                                  if(abs.angle.direction1of....
+<for(r)> ...UFFIX0):=term(SUFFIX0)(2',1,right,1,4)
+                                                  ; ENDFOR
+stroke->...rsuffixes.e=l,r:path_.e:=(TEXT2);endfor
+                                                  .if.cycle.path_.l:errmessa...
+<to be read again> 
+                   ;
+l.35  filldraw stroke term.e(2',1,right,1,4);
+                                              fi  % short diagonal and terminal
+The equation I just processed has given some variable
+a value of 4096 or more. Continue and I'll try to cope
+with that big value; but it might be dangerous.
+(Set warningcheck:=0 to suppress this message.)
+
+[38]
+Question mark [63]
+Spanish open question mark [190])
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/exrulett.mf
+ Ok
+The letter A [65]
+The letter B [66]
+The letter C [67]
+The letter D [68]
+The letter E [69]
+The letter F [70]
+The letter G [71]
+The letter H [72]
+The letter I [73]
+The letter J [74]
+The letter K [75]
+The letter L [76]
+The letter M [77]
+The letter N [78]
+The letter O [79]
+The letter P [80]
+The letter Q [81]
+The letter R [82]
+The letter S [83]
+The letter T [84]
+The letter U [85]
+The letter V [86]
+The letter W [87]
+The letter X [88]
+The letter Y [89]
+The letter Z [90])
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/exrllett.mf
+ Ok
+The letter a [97]
+The letter b [98]
+The letter c [99]
+The letter d [100]
+The letter e [101]
+The letter f [102]
+The letter g [103]
+The letter h [104]
+The letter i [105]
+The letter j [106]
+The letter k [107]
+The letter l [108]
+The letter m [109]
+The letter n [110]
+The letter o [111]
+The letter p [112]
+The letter q [113]
+The letter r [114]
+The letter s [115]
+The letter t [116]
+The letter u [117]
+The letter v [118]
+The letter w [119]
+The letter x [120]
+The letter y [121]
+The letter z [122])
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/exrdigit.mf
+ Ok
+The numeral 0 [48]
+The numeral 1 [49]
+The numeral 2 [50]
+The numeral 3 [51]
+The numeral 4 [52]
+The numeral 5 [53]
+The numeral 6 [54]
+The numeral 7 [55]
+The numeral 8 [56]
+The numeral 9 [57])
+(/usr/share/texmf-texlive/fonts/source/jknappen/ec/exrligtb.mf
+ Ok) ) ) ) 
+Here is how much of METAFONT's memory you used:
+ 748 strings out of 5275
+ 8421 string characters out of 70080
+ 79874 words of memory out of 3000000
+ 1537 symbolic tokens out of 9500
+ 12i,79n,0r,23p,248b stack positions out of 300i,300n,1000r,150p,200000b
+
+(some charht values had to be adjusted by as much as 0.15675pt) 
+(You used 67w,16h,13d,11i,370l,9k,0e,16p metric file positions
+  out of 256w,16h,16d,64i,15000l,2500k,256e,60p)
+
+Font metrics written on ecsx2488.tfm.
+Output written on ecsx2488.8000gf (256 characters, 3578820 bytes).

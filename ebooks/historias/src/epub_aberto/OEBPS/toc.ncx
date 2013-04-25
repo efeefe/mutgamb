@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:79316dd2-4899-4d69-a3c2-3bb1418c9fad" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>MetaReciclagem - Histórias da, Histórias de</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>História da MetaReciclagem, Histórias de MetaReciclagem</text>
+      </navLabel>
+      <content src="Text/historias.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Prefácio</text>
+        </navLabel>
+        <content src="Text/prefacio.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Introdução</text>
+        </navLabel>
+        <content src="Text/intro.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Um berço colaborativo</text>
+        </navLabel>
+        <content src="Text/berco.xhtml"/>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>Wiki</text>
+          </navLabel>
+          <content src="Text/berco.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>Tríade da Informação Livre</text>
+          </navLabel>
+          <content src="Text/berco.xhtml#heading_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>Xemelê</text>
+          </navLabel>
+          <content src="Text/berco.xhtml#heading_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>Esporos (e ConecTAZes)</text>
+          </navLabel>
+          <content src="Text/berco.xhtml#heading_id_6"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>Microcrédito, caordem, TAZ, mídia tática, inclusão digital</text>
+          </navLabel>
+          <content src="Text/berco.xhtml#heading_id_7"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>O fim e os começos</text>
+          </navLabel>
+          <content src="Text/berco.xhtml#heading_id_8"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Uma experiência opensource</text>
+        </navLabel>
+        <content src="Text/experiencia-opensource.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Projecto Metáfora: Caos e Ordem numa Inteligência Colectiva</text>
+        </navLabel>
+        <content src="Text/metafora-caos-ordem.xhtml"/>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>A Participação no Midia Tática Brasil</text>
+          </navLabel>
+          <content src="Text/metafora-caos-ordem.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>A Tentativa de Criação de uma ONG e o Fim</text>
+          </navLabel>
+          <content src="Text/metafora-caos-ordem.xhtml#heading_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>Liderança e Motivação numa “Caordem”</text>
+          </navLabel>
+          <content src="Text/metafora-caos-ordem.xhtml#heading_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>Referências</text>
+          </navLabel>
+          <content src="Text/metafora-caos-ordem.xhtml#heading_id_6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Chocadeira colaborativa</text>
+        </navLabel>
+        <content src="Text/chocadeira.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Os primórdios da MetaReciclagem</text>
+        </navLabel>
+        <content src="Text/primordios.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>MetaReciclagem: Reapropriação da Tecnologia para Fins de Transformação Social</text>
+        </navLabel>
+        <content src="Text/reapropriacao.xhtml"/>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>A Replicação da Metodologia da MetaReciclagem</text>
+          </navLabel>
+          <content src="Text/reapropriacao.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>Referências</text>
+          </navLabel>
+          <content src="Text/reapropriacao.xhtml#heading_id_4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Cartografando: Esporos, ConecTAZes, Infralógica</text>
+        </navLabel>
+        <content src="Text/cartografando.xhtml"/>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>Esporos</text>
+          </navLabel>
+          <content src="Text/cartografando.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>ConecTAZes</text>
+          </navLabel>
+          <content src="Text/cartografando.xhtml#heading_id_4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>A Rede MetaReciclagem</text>
+        </navLabel>
+        <content src="Text/rede-metareciclagem.xhtml"/>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>Não rede, mas ações</text>
+          </navLabel>
+          <content src="Text/rede-metareciclagem.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>Mais sobre metanomenclaturas</text>
+          </navLabel>
+          <content src="Text/rede-metareciclagem.xhtml#heading_id_4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>CyberSocial</text>
+        </navLabel>
+        <content src="Text/cybersocial.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>MetaReciclagem em Santo André – Montando uma estrutura</text>
+        </navLabel>
+        <content src="Text/santo-andre.xhtml"/>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>A Chegada</text>
+          </navLabel>
+          <content src="Text/santo-andre.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>Propostas e princípios</text>
+          </navLabel>
+          <content src="Text/santo-andre.xhtml#heading_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>Primeiras doações</text>
+          </navLabel>
+          <content src="Text/santo-andre.xhtml#heading_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>Enfim, um laboratório</text>
+          </navLabel>
+          <content src="Text/santo-andre.xhtml#heading_id_6"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>Mas, hein?</text>
+          </navLabel>
+          <content src="Text/santo-andre.xhtml#heading_id_7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Pra pensar</text>
+        </navLabel>
+        <content src="Text/pra-pensar.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Uns relatos soltos</text>
+        </navLabel>
+        <content src="Text/relatos-soltos.xhtml"/>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>Oficina de Colaboração Metareciclagem</text>
+          </navLabel>
+          <content src="Text/relatos-soltos.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>Um olhar sobre a cidade educadora</text>
+          </navLabel>
+          <content src="Text/relatos-soltos.xhtml#heading_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>Oficina Metareciclarte no Capão</text>
+          </navLabel>
+          <content src="Text/relatos-soltos.xhtml#heading_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>Telecentros Comunicadores</text>
+          </navLabel>
+          <content src="Text/relatos-soltos.xhtml#heading_id_6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Entrevista para a webinsider</text>
+        </navLabel>
+        <content src="Text/entrevista-webinsider.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Treinamento de metareciclagem de computadores</text>
+        </navLabel>
+        <content src="Text/treinamento-metareciclagem.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Relato de oficinas</text>
+        </navLabel>
+        <content src="Text/relato-oficinas.xhtml"/>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>metareciclagem</text>
+          </navLabel>
+          <content src="Text/relato-oficinas.xhtml#heading_id_3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Emergindo das entranhas</text>
+        </navLabel>
+        <content src="Text/emergindo.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Fim do mezanino</text>
+        </navLabel>
+        <content src="Text/fim-mezanino.xhtml"/>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>Navios piratas devem circular...</text>
+          </navLabel>
+          <content src="Text/fim-mezanino.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>Mezanino morreu. Longa vida à MetaReciclagem</text>
+          </navLabel>
+          <content src="Text/fim-mezanino.xhtml#heading_id_4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Regras de jogo</text>
+        </navLabel>
+        <content src="Text/regras-jogo.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Estudo de caso: mimoSa</text>
+        </navLabel>
+        <content src="Text/mimoSa.xhtml"/>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>o que é mimoSa?</text>
+          </navLabel>
+          <content src="Text/mimoSa.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52">
+          <navLabel>
+            <text>- por onde passou? como funcionou?</text>
+          </navLabel>
+          <content src="Text/mimoSa.xhtml#heading_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>- revolvendo o objeto artístico e o público-artista</text>
+          </navLabel>
+          <content src="Text/mimoSa.xhtml#heading_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>- e agora?</text>
+          </navLabel>
+          <content src="Text/mimoSa.xhtml#heading_id_6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Um ano relevante</text>
+        </navLabel>
+        <content src="Text/ano-relevante.xhtml"/>
+        <navPoint id="navPoint-56" playOrder="56">
+          <navLabel>
+            <text>Linux</text>
+          </navLabel>
+          <content src="Text/ano-relevante.xhtml#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-57" playOrder="57">
+          <navLabel>
+            <text>MetaReciclagem</text>
+          </navLabel>
+          <content src="Text/ano-relevante.xhtml#heading_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-58" playOrder="58">
+          <navLabel>
+            <text>Rádio Livre</text>
+          </navLabel>
+          <content src="Text/ano-relevante.xhtml#heading_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>Streaming</text>
+          </navLabel>
+          <content src="Text/ano-relevante.xhtml#heading_id_6"/>
+        </navPoint>
+        <navPoint id="navPoint-60" playOrder="60">
+          <navLabel>
+            <text>Inclusão Digital</text>
+          </navLabel>
+          <content src="Text/ano-relevante.xhtml#heading_id_7"/>
+        </navPoint>
+        <navPoint id="navPoint-61" playOrder="61">
+          <navLabel>
+            <text>Zona Costeira</text>
+          </navLabel>
+          <content src="Text/ano-relevante.xhtml#heading_id_8"/>
+        </navPoint>
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>Terramar</text>
+          </navLabel>
+          <content src="Text/ano-relevante.xhtml#heading_id_9"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Os ideais da MetaReciclagem</text>
+        </navLabel>
+        <content src="Text/ideais.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>MetaReciclagem por aí</text>
+        </navLabel>
+        <content src="Text/por-ai.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Controvérsias metareciclentas</text>
+        </navLabel>
+        <content src="Text/controversias.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Tacando pedra nos moinhos</text>
+        </navLabel>
+        <content src="Text/pedra-moinhos.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Aspas, aspas...</text>
+        </navLabel>
+        <content src="Text/aspas-aspas.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Pra quê?</text>
+        </navLabel>
+        <content src="Text/pra-que.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Notas</text>
+        </navLabel>
+        <content src="Text/notas.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

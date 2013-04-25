@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:79316dd2-4899-4d69-a3c2-3bb1418c9fad</dc:identifier>
+    <dc:title>MetaReciclagem - Histórias da, Histórias de</dc:title>
+    <dc:rights>A menos que explicitado em contrário, os textos aqui publicados estão em copyleft, e podem ser reproduzidos e republicados desde que citados autorx e fonte.</dc:rights>
+    <dc:creator opf:role="aut">Coletivo MutGamb - http://mutgamb.org</dc:creator>
+    <dc:language>pt</dc:language>
+    <meta content="0.5.0" name="Sigil version" />
+    <meta name="cover" content="x2012-01-18_historias-OOo_html_m7b57a215.png" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/notas.xhtml" id="notas.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/historias.html" id="historias.html" media-type="application/xhtml+xml" />
+    <item href="Text/prefacio.xhtml" id="prefacio.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/intro.xhtml" id="intro.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/berco.xhtml" id="berco.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/experiencia-opensource.xhtml" id="experiencia-opensource.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/metafora-caos-ordem.xhtml" id="metafora-caos-ordem.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/chocadeira.xhtml" id="chocadeira.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/primordios.xhtml" id="primordios.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/reapropriacao.xhtml" id="reapropriacao.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/cartografando.xhtml" id="cartografando.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/rede-metareciclagem.xhtml" id="rede-metareciclagem.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/cybersocial.xhtml" id="cybersocial.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/santo-andre.xhtml" id="santo-andre.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/pra-pensar.xhtml" id="pra-pensar.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/relatos-soltos.xhtml" id="relatos-soltos.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/entrevista-webinsider.xhtml" id="entrevista-webinsider.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/treinamento-metareciclagem.xhtml" id="treinamento-metareciclagem.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/relato-oficinas.xhtml" id="relato-oficinas.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/emergindo.xhtml" id="emergindo.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/fim-mezanino.xhtml" id="fim-mezanino.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/regras-jogo.xhtml" id="regras-jogo.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mimoSa.xhtml" id="mimoSa.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/ano-relevante.xhtml" id="ano-relevante.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/ideais.xhtml" id="ideais.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/por-ai.xhtml" id="por-ai.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/controversias.xhtml" id="controversias.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/pedra-moinhos.xhtml" id="pedra-moinhos.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/aspas-aspas.xhtml" id="aspas-aspas.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/capa.png" id="capa.png" media-type="image/png" />
+    <item href="Text/pra-que.xhtml" id="pra-que.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="historias.html" />
+    <itemref idref="prefacio.xhtml" />
+    <itemref idref="intro.xhtml" />
+    <itemref idref="berco.xhtml" />
+    <itemref idref="experiencia-opensource.xhtml" />
+    <itemref idref="metafora-caos-ordem.xhtml" />
+    <itemref idref="chocadeira.xhtml" />
+    <itemref idref="primordios.xhtml" />
+    <itemref idref="reapropriacao.xhtml" />
+    <itemref idref="cartografando.xhtml" />
+    <itemref idref="rede-metareciclagem.xhtml" />
+    <itemref idref="cybersocial.xhtml" />
+    <itemref idref="santo-andre.xhtml" />
+    <itemref idref="pra-pensar.xhtml" />
+    <itemref idref="relatos-soltos.xhtml" />
+    <itemref idref="entrevista-webinsider.xhtml" />
+    <itemref idref="treinamento-metareciclagem.xhtml" />
+    <itemref idref="relato-oficinas.xhtml" />
+    <itemref idref="emergindo.xhtml" />
+    <itemref idref="fim-mezanino.xhtml" />
+    <itemref idref="regras-jogo.xhtml" />
+    <itemref idref="mimoSa.xhtml" />
+    <itemref idref="ano-relevante.xhtml" />
+    <itemref idref="ideais.xhtml" />
+    <itemref idref="por-ai.xhtml" />
+    <itemref idref="controversias.xhtml" />
+    <itemref idref="pedra-moinhos.xhtml" />
+    <itemref idref="aspas-aspas.xhtml" />
+    <itemref idref="pra-que.xhtml" />
+    <itemref idref="notas.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/historias.html" title="Cover" type="cover" />
+  </guide>
+</package>
